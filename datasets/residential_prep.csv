@@ -1,0 +1,1859 @@
+Tipo;Bairro;Quartos;Vagas;Suites;Area;Valor;Condominio;IPTU
+Casa;Jardim Botânico;2;0;1;100;7000.0;0.0;0.0
+Apartamento;Vista Alegre;3;1;0;70;1200.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;5;4;5;750;22000.0;0.0;0.0
+Casa de Condomínio;Ramos;2;2;0;65;1000.0;0.0;0.0
+Apartamento;Centro;1;0;0;36;1200.0;0.0;0.0
+Casa de Condomínio;Taquara;3;1;1;115;2000.0;0.0;0.0
+Casa;Campo Grande;4;1;2;400;12000.0;0.0;0.0
+Apartamento;Praça Seca;2;0;0;80;1000.0;0.0;0.0
+Casa de Vila;Piedade;2;1;0;70;1300.0;0.0;0.0
+Casa;Maracanã;8;3;5;259;7000.0;0.0;0.0
+Casa;Benfica;1;0;0;33;1200.0;0.0;0.0
+Apartamento;Rocha Miranda;2;1;0;50;1100.0;0.0;0.0
+Apartamento;Barra da Tijuca;1;1;1;65;2350.0;0.0;0.0
+Casa;Jardim Carioca;3;2;1;135;3000.0;0.0;0.0
+Casa;Lins de Vasconcelos;2;0;0;40;950.0;0.0;50.0
+Apartamento;Cidade Nova;1;0;0;46;1000.0;0.0;0.0
+Apartamento;Olaria;1;0;0;39;800.0;0.0;0.0
+Apartamento;Leblon;3;0;1;85;8500.0;0.0;1719.0
+Apartamento;Tomás Coelho;2;0;0;70;800.0;0.0;0.0
+Casa de Vila;Oswaldo Cruz;1;0;1;40;800.0;0.0;0.0
+Casa;Grajaú;5;4;2;450;7000.0;0.0;500.0
+Casa;Campo Grande;3;0;0;200;2100.0;0.0;0.0
+Casa;Bonsucesso;2;0;0;51;1000.0;0.0;0.0
+Apartamento;Campo Grande;2;0;1;58;1000.0;0.0;0.0
+Casa;Engenho Novo;2;0;0;70;1100.0;0.0;0.0
+Casa de Vila;Quintino Bocaiúva;2;1;0;48;750.0;0.0;0.0
+Casa;Jardim Botânico;2;4;1;107;9500.0;0.0;1091.0
+Casa;Recreio dos Bandeirantes;4;4;2;367;12000.0;0.0;653.0
+Casa;Botafogo;12;5;0;500;18000.0;0.0;1800.0
+Casa;Catete;10;0;10;300;15000.0;0.0;220.0
+Quitinete;Gardênia Azul;1;0;0;20;485.0;0.0;0.0
+Casa;São Conrado;4;0;4;1200;25000.0;0.0;0.0
+Casa;Campo Grande;2;1;2;100;1500.0;0.0;30.0
+Casa;Santa Teresa;5;3;0;260;7000.0;0.0;163.0
+Apartamento;Piedade;2;1;0;83;950.0;0.0;13.0
+Casa;Vila da Penha;1;0;0;40;850.0;0.0;0.0
+Quitinete;Centro;1;0;1;15;750.0;0.0;0.0
+Casa;Vaz Lobo;1;0;0;35;400.0;0.0;0.0
+Casa;Campo Grande;2;1;0;100;1300.0;0.0;0.0
+Apartamento;Jardim Guanabara;2;0;0;92;1600.0;0.0;99.0
+Apartamento;Vila da Penha;2;0;0;70;1200.0;0.0;27.0
+Apartamento;Praça Seca;1;0;1;50;600.0;0.0;0.0
+Apartamento;Tijuca;2;0;1;80;1300.0;0.0;82.0
+Casa;Campo Grande;2;0;0;70;1000.0;0.0;0.0
+Casa;Ramos;2;0;0;40;950.0;0.0;0.0
+Casa;Anil;3;6;1;280;2800.0;0.0;190.0
+Apartamento;Grajaú;2;0;0;72;2000.0;0.0;758.0
+Apartamento;Copacabana;2;0;0;56;3000.0;0.0;0.0
+Casa de Condomínio;Joá;6;4;6;550;25000.0;0.0;672.0
+Casa;Campo Grande;5;2;5;120;10000.0;0.0;0.0
+Casa;Vargem Grande;7;10;2;500;12000.0;0.0;20.0
+Casa;Barra da Tijuca;4;6;2;800;9800.0;0.0;490.0
+Apartamento;Colégio;1;0;0;58;950.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;3;0;0;614;4500.0;0.0;576.0
+Casa;Tijuca;4;6;0;160;3500.0;0.0;0.0
+Apartamento;Rocha Miranda;1;0;0;33;750.0;0.0;0.0
+Casa;Piedade;2;0;0;95;1100.0;0.0;0.0
+Apartamento;Guadalupe;1;0;0;60;700.0;0.0;0.0
+Casa de Vila;Realengo;2;1;0;150;1200.0;0.0;0.0
+Casa;Freguesia (Jacarepaguá);4;4;1;300;4500.0;0.0;0.0
+Casa;Barra da Tijuca;6;1;0;425;13000.0;0.0;580.0
+Casa;Campo Grande;3;1;0;120;2800.0;0.0;0.0
+Casa;Lagoa;6;1;0;750;18000.0;0.0;1200.0
+Casa;Urca;6;5;5;1000;13000.0;0.0;0.0
+Flat;Barra da Tijuca;1;1;1;35;6000.0;0.0;0.0
+Apartamento;Vila da Penha;2;0;0;75;1300.0;0.0;252.0
+Casa;Campo Grande;2;1;0;80;1200.0;0.0;0.0
+Apartamento;Anil;2;0;0;74;1200.0;0.0;0.0
+Apartamento;Benfica;1;0;0;15;350.0;0.0;0.0
+Casa de Vila;Irajá;2;0;0;53;900.0;0.0;0.0
+Casa;Barra da Tijuca;5;4;2;600;8000.0;0.0;0.0
+Casa;Braz de Pina;3;1;0;69;1600.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;25;2000.0;0.0;0.0
+Casa;Jardim Botânico;4;1;4;387;25000.0;0.0;582.0
+Apartamento;Guadalupe;1;0;0;30;450.0;0.0;0.0
+Apartamento;Vicente de Carvalho;2;0;0;70;1000.0;0.0;0.0
+Apartamento;Taquara;4;1;1;110;1900.0;0.0;0.0
+Apartamento;Vila da Penha;2;0;0;60;1100.0;0.0;15.0
+Casa;Jardim Botânico;4;5;4;845;35000.0;0.0;0.0
+Apartamento;Copacabana;3;0;1;110;8000.0;0.0;0.0
+Casa de Vila;Campo Grande;2;0;0;100;850.0;0.0;0.0
+Casa;Jardim Carioca;3;2;1;317;5000.0;0.0;2221.0
+Casa;Vila Valqueire;2;1;0;60;1050.0;0.0;5.0
+Casa de Condomínio;Barra da Tijuca;5;3;5;700;25000.0;0.0;0.0
+Casa de Condomínio;Vargem Grande;3;2;1;160;3900.0;0.0;0.0
+Apartamento;Copacabana;2;0;1;70;4000.0;0.0;0.0
+Casa;Urca;5;4;3;350;16000.0;0.0;500.0
+Casa;Santíssimo;2;0;0;60;800.0;0.0;0.0
+Casa;Praça Seca;3;0;1;159;1400.0;0.0;100.0
+Apartamento;Recreio dos Bandeirantes;3;2;1;211;2500.0;0.0;0.0
+Casa;Moneró;2;0;0;100;2500.0;0.0;0.0
+Apartamento;Bonsucesso;3;0;0;90;950.0;0.0;28.0
+Quitinete;Curicica;1;0;0;38;750.0;0.0;0.0
+Apartamento;Ricardo de Albuquerque;1;0;0;25;320.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;74;750.0;0.0;0.0
+Casa;Campo Grande;2;1;0;60;1500.0;0.0;0.0
+Casa;Oswaldo Cruz;1;0;0;40;900.0;0.0;0.0
+Apartamento;Engenho de Dentro;3;1;1;146;2400.0;0.0;128.0
+Apartamento;Campo Grande;1;0;0;70;1000.0;0.0;0.0
+Apartamento;Barra da Tijuca;2;1;1;78;3000.0;0.0;0.0
+Casa;Gávea;4;4;2;450;14000.0;0.0;7200.0
+Casa de Condomínio;Guaratiba;2;1;2;70;1600.0;0.0;0.0
+Quitinete;Gávea;1;0;1;50;1800.0;0.0;0.0
+Casa;Campo Grande;2;1;0;70;1000.0;0.0;0.0
+Casa;Vila Isabel;2;0;0;96;2000.0;0.0;40.0
+Casa de Vila;Vila Isabel;2;0;0;55;1800.0;0.0;225.0
+Casa de Vila;Ramos;2;0;0;58;900.0;0.0;0.0
+Flat;Ipanema;1;1;0;45;6500.0;0.0;0.0
+Casa;Realengo;2;0;0;80;950.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;60;800.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;5;4;5;600;25000.0;0.0;0.0
+Casa;Campo Grande;3;0;2;120;1000.0;0.0;0.0
+Casa;Penha Circular;3;1;0;102;2100.0;0.0;1200.0
+Casa;Gávea;4;2;3;250;16000.0;0.0;400.0
+Apartamento;Parque Anchieta;2;1;0;75;1000.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;5;2;5;700;25000.0;0.0;1800.0
+Casa;Realengo;1;0;0;40;800.0;0.0;0.0
+Casa;Campo Grande;4;5;1;596;4000.0;0.0;7627.0
+Casa;Taquara;4;2;1;550;8000.0;0.0;0.0
+Apartamento;Engenho Novo;3;0;0;75;1300.0;0.0;0.0
+Casa de Vila;Méier;2;1;1;65;1800.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;60;700.0;0.0;0.0
+Apartamento;Quintino Bocaiúva;2;1;0;60;1000.0;0.0;0.0
+Casa;Colégio;1;0;0;65;800.0;0.0;0.0
+Apartamento;Cosme Velho;3;1;1;115;3950.0;0.0;0.0
+Casa;Campo Grande;2;0;0;70;1100.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;20;3000.0;0.0;0.0
+Casa de Vila;Méier;3;1;1;80;2300.0;0.0;0.0
+Apartamento;Penha;2;0;0;117;1300.0;0.0;110.0
+Apartamento;Pavuna;2;0;0;40;600.0;0.0;0.0
+Casa;Campo Grande;3;1;0;100;1500.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;55;2500.0;0.0;0.0
+Casa;Pilares;2;0;0;65;800.0;0.0;0.0
+Casa;Bangu;2;2;0;120;1580.0;0.0;0.0
+Apartamento;Cascadura;2;0;0;96;1250.0;0.0;77.0
+Casa de Vila;Bangu;2;1;0;100;1100.0;0.0;0.0
+Casa;Vila Isabel;2;0;0;52;1500.0;0.0;0.0
+Casa;Todos os Santos;2;1;0;90;1800.0;0.0;0.0
+Apartamento;Leblon;3;0;0;90;10000.0;0.0;0.0
+Apartamento;Vila da Penha;2;1;0;62;1100.0;0.0;0.0
+Casa;Campo Grande;2;1;0;80;2000.0;0.0;0.0
+Casa de Condomínio;Vargem Grande;4;1;2;180;2300.0;0.0;20.0
+Apartamento;Copacabana;1;0;1;30;2700.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;60;700.0;0.0;0.0
+Casa de Vila;Santa Teresa;2;0;0;120;2000.0;0.0;0.0
+Casa;Santa Cruz;2;3;0;142;1600.0;0.0;0.0
+Apartamento;Guadalupe;2;0;0;57;950.0;0.0;0.0
+Casa;Campo Grande;4;1;4;100;1600.0;0.0;0.0
+Casa;Vila Isabel;3;0;0;100;3000.0;0.0;219.0
+Casa;Campo Grande;2;0;0;65;1500.0;0.0;0.0
+Casa;Humaitá;3;2;1;234;10000.0;0.0;305.0
+Apartamento;Recreio dos Bandeirantes;3;2;1;108;2900.0;0.0;0.0
+Apartamento;Guadalupe;2;0;0;58;850.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;45;2500.0;0.0;0.0
+Apartamento;Barra da Tijuca;1;1;0;84;4000.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;35;4500.0;0.0;0.0
+Casa;Campo Grande;2;0;0;70;1500.0;0.0;0.0
+Casa;Engenho de Dentro;4;3;0;120;1500.0;0.0;0.0
+Casa;Freguesia (Jacarepaguá);5;0;5;1000;20000.0;0.0;0.0
+Apartamento;Curicica;1;1;0;36;1000.0;0.0;0.0
+Casa;Curicica;3;3;1;130;3800.0;0.0;0.0
+Apartamento;Santa Teresa;2;0;0;65;1500.0;0.0;106.0
+Apartamento;Irajá;2;0;0;50;750.0;0.0;0.0
+Casa;Bangu;2;1;0;80;1100.0;0.0;12.0
+Apartamento;Recreio dos Bandeirantes;4;2;2;125;1700.0;0.0;90.0
+Apartamento;Andaraí;2;0;0;55;1300.0;0.0;17.0
+Apartamento;Ramos;2;0;0;49;800.0;0.0;0.0
+Casa;Urca;4;0;4;491;19900.0;0.0;6000.0
+Apartamento;Ipanema;4;2;0;300;30000.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;50;900.0;0.0;0.0
+Casa;Bento Ribeiro;2;1;0;50;1300.0;0.0;1.0
+Casa de Vila;Méier;4;0;1;85;1600.0;0.0;0.0
+Apartamento;Olaria;2;0;0;54;900.0;0.0;0.0
+Casa;Jardim América;3;0;0;180;900.0;0.0;0.0
+Casa;Ramos;3;0;0;11;1200.0;0.0;0.0
+Apartamento;Taquara;2;1;1;80;1200.0;0.0;72.0
+Casa;Anil;3;0;1;210;2750.0;0.0;0.0
+Quitinete;Copacabana;1;0;0;10;800.0;0.0;60.0
+Casa;Campo Grande;2;1;0;70;1350.0;0.0;0.0
+Casa de Vila;Encantado;1;0;0;30;850.0;0.0;0.0
+Casa;Praça Seca;2;1;0;81;1100.0;0.0;15.0
+Apartamento;Copacabana;2;0;0;110;4500.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;40;1700.0;0.0;0.0
+Apartamento;Copacabana;2;1;0;80;3500.0;0.0;0.0
+Casa;Grajaú;6;5;2;279;3500.0;0.0;390.0
+Apartamento;Vila da Penha;1;1;0;45;900.0;0.0;22.0
+Casa de Vila;Vila Isabel;2;0;0;80;1900.0;0.0;73.0
+Casa;Freguesia (Jacarepaguá);6;10;1;475;10000.0;0.0;0.0
+Casa;Realengo;1;1;0;40;600.0;0.0;0.0
+Flat;Centro;1;0;1;32;2950.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;80;3900.0;0.0;0.0
+Apartamento;Tomás Coelho;2;0;0;62;1300.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;40;2900.0;0.0;0.0
+Apartamento;Copacabana;1;0;1;20;1800.0;0.0;0.0
+Casa;Ramos;2;0;0;65;1300.0;0.0;0.0
+Flat;Copacabana;2;1;1;65;4000.0;0.0;0.0
+Apartamento;Pilares;2;1;0;80;1400.0;0.0;0.0
+Quitinete;Gardênia Azul;1;0;0;25;500.0;0.0;0.0
+Casa;Vila da Penha;2;1;0;70;1300.0;0.0;18.0
+Casa;Campo Grande;2;1;0;75;1000.0;0.0;0.0
+Casa;Campo Grande;1;0;0;40;450.0;0.0;0.0
+Apartamento;Méier;3;0;0;70;1400.0;0.0;0.0
+Apartamento;Quintino Bocaiúva;1;0;0;35;750.0;0.0;0.0
+Apartamento;Tomás Coelho;1;0;0;65;800.0;0.0;0.0
+Quitinete;Copacabana;1;0;0;30;2000.0;0.0;0.0
+Apartamento;Olaria;2;0;1;60;900.0;0.0;0.0
+Apartamento;Colégio;2;1;0;75;990.0;0.0;0.0
+Apartamento;Urca;32;0;1;70;4000.0;0.0;0.0
+Apartamento;Ipanema;2;1;0;90;7000.0;0.0;0.0
+Apartamento;Ipanema;2;1;1;86;10000.0;0.0;0.0
+Casa de Vila;Colégio;2;1;0;50;980.0;0.0;0.0
+Casa de Condomínio;Madureira;2;0;0;70;900.0;0.0;68.0
+Apartamento;Tijuca;3;0;0;100;1990.0;0.0;29.0
+Casa;Vaz Lobo;1;1;0;80;800.0;0.0;75.0
+Casa;Jardim América;1;0;0;41;800.0;0.0;0.0
+Apartamento;Copacabana;3;0;0;50;3000.0;0.0;0.0
+Apartamento;Encantado;1;0;0;40;500.0;0.0;12.0
+Casa;Vila da Penha;5;0;2;270;3000.0;0.0;0.0
+Apartamento;Madureira;2;1;0;60;1000.0;0.0;0.0
+Casa de Condomínio;Copacabana;3;1;2;130;8000.0;0.0;80.0
+Casa;Campo Grande;3;1;1;100;1800.0;0.0;0.0
+Apartamento;Inhaúma;2;2;0;70;1800.0;0.0;0.0
+Casa de Condomínio;Botafogo;1;4;0;400;18000.0;0.0;0.0
+Casa de Vila;Bento Ribeiro;1;0;0;30;480.0;0.0;0.0
+Casa de Condomínio;Ramos;3;1;1;200;1400.0;0.0;0.0
+Casa de Vila;Anchieta;2;1;0;80;1000.0;0.0;0.0
+Casa;Laranjeiras;4;0;2;85;8900.0;0.0;0.0
+Casa;Campo Grande;3;2;2;134;1700.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;80;1100.0;0.0;0.0
+Quitinete;Copacabana;1;0;0;32;2300.0;0.0;0.0
+Apartamento;Ipanema;2;1;1;86;12000.0;0.0;0.0
+Casa;Vargem Grande;2;1;1;78;1500.0;0.0;0.0
+Casa;Vila da Penha;3;0;3;180;4500.0;0.0;0.0
+Apartamento;Rocha Miranda;1;0;0;35;550.0;0.0;0.0
+Apartamento;Guadalupe;2;0;0;40;850.0;0.0;0.0
+Casa;Piedade;1;0;0;39;600.0;0.0;16.0
+Casa;Campo Grande;2;1;0;90;1500.0;0.0;0.0
+Casa;Vila Isabel;3;0;0;100;3000.0;0.0;2190.0
+Casa;Campo Grande;2;0;0;70;900.0;0.0;30.0
+Apartamento;Recreio dos Bandeirantes;2;1;1;78;2300.0;0.0;0.0
+Casa;Itanhangá;5;0;5;240;5000.0;0.0;0.0
+Flat;Ipanema;1;1;1;46;4000.0;0.0;0.0
+Apartamento;Ipanema;3;1;2;242;9999.0;0.0;9925.0
+Apartamento;Madureira;1;1;1;133;1400.0;0.0;0.0
+Apartamento;Vila Kosmos;3;1;0;85;1500.0;0.0;0.0
+Apartamento;Copacabana;2;1;0;90;3400.0;0.0;0.0
+Casa de Vila;Ramos;0;0;0;20;600.0;0.0;0.0
+Apartamento;Barra da Tijuca;3;3;1;230;16500.0;0.0;0.0
+Apartamento;Copacabana;3;1;1;200;12000.0;0.0;0.0
+Casa;Praça Seca;3;4;1;316;1950.0;0.0;187.0
+Apartamento;Botafogo;2;1;0;70;2500.0;0.0;0.0
+Apartamento;Gardênia Azul;1;0;0;35;650.0;0.0;0.0
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;168;4500.0;0.0;0.0
+Casa;Senador Vasconcelos;3;3;1;360;2495.0;0.0;0.0
+Casa de Condomínio;Senador Vasconcelos;2;1;0;70;900.0;0.0;0.0
+Apartamento;Ipanema;3;1;1;180;37000.0;0.0;0.0
+Casa de Vila;Oswaldo Cruz;1;0;0;50;620.0;0.0;0.0
+Casa;Méier;3;0;0;98;2200.0;0.0;18.0
+Casa;Campo Grande;5;4;1;300;10000.0;0.0;0.0
+Casa;Barra da Tijuca;5;3;0;250;12000.0;0.0;550.0
+Casa de Vila;Maracanã;1;0;0;25;900.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;7;6;4;587;8000.0;0.0;0.0
+Apartamento;Tijuca;1;0;0;50;1400.0;0.0;0.0
+Casa;Campo Grande;2;2;0;60;1000.0;0.0;0.0
+Apartamento;Riachuelo;1;0;0;60;1050.0;0.0;0.0
+Apartamento;Vila da Penha;1;0;0;40;900.0;0.0;0.0
+Apartamento;Penha Circular;2;0;0;70;1300.0;0.0;0.0
+Casa;Anil;1;0;0;35;1000.0;0.0;0.0
+Quitinete;Copacabana;0;0;0;36;100.0;0.0;0.0
+Apartamento;Cascadura;2;0;0;57;1000.0;0.0;0.0
+Quitinete;Vila da Penha;1;0;0;20;450.0;0.0;0.0
+Apartamento;Vila Valqueire;1;0;0;40;850.0;0.0;0.0
+Casa;Tijuca;6;4;2;550;18500.0;0.0;0.0
+Apartamento;Campo Grande;3;1;0;65;900.0;0.0;0.0
+Apartamento;Cachambi;1;0;0;55;850.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;4;2;2;353;9000.0;0.0;0.0
+Apartamento;Barra da Tijuca;1;1;1;60;5000.0;0.0;0.0
+Casa;Maria da Graça;1;0;0;40;800.0;0.0;0.0
+Apartamento;Humaitá;3;2;1;170;5850.0;0.0;270.0
+Casa;Maracanã;3;2;0;188;4000.0;0.0;344.0
+Casa;Pedra de Guaratiba;2;1;1;80;1200.0;0.0;0.0
+Casa de Vila;Irajá;2;0;0;70;1010.0;0.0;0.0
+Apartamento;Ipanema;2;1;1;84;12000.0;0.0;0.0
+Apartamento;Leblon;3;0;0;100;5750.0;0.0;0.0
+Apartamento;Vila da Penha;2;0;1;115;1200.0;0.0;0.0
+Casa;Santa Teresa;14;0;14;350;9500.0;0.0;600.0
+Apartamento;Campo Grande;1;0;1;70;600.0;0.0;0.0
+Casa;Jacarepaguá;4;3;2;230;4500.0;0.0;180.0
+Quitinete;Engenho de Dentro;1;0;0;30;750.0;0.0;0.0
+Casa;Campo Grande;4;1;0;140;1700.0;0.0;0.0
+Casa de Vila;Vicente de Carvalho;1;0;0;50;600.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;50;1100.0;0.0;0.0
+Casa;Taquara;2;1;1;79;900.0;0.0;0.0
+Apartamento;Santíssimo;2;0;0;48;550.0;0.0;0.0
+Apartamento;Catumbi;2;0;0;59;1700.0;0.0;0.0
+Casa de Vila;Bangu;1;0;0;20;400.0;0.0;0.0
+Casa;Botafogo;7;0;4;275;16000.0;0.0;622.0
+Casa de Condomínio;Guaratiba;2;1;2;75;1600.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;50;1120.0;0.0;0.0
+Apartamento;Vaz Lobo;2;1;0;70;1300.0;0.0;0.0
+Apartamento;Olaria;2;0;1;60;1600.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;3;4;2;600;6000.0;0.0;1200.0
+Apartamento;São Cristóvão;2;0;0;50;1200.0;0.0;100.0
+Casa;Riachuelo;2;0;1;150;1800.0;0.0;15.0
+Casa;Pedra de Guaratiba;2;1;0;60;900.0;0.0;0.0
+Casa de Condomínio;Itanhangá;6;6;4;800;8500.0;0.0;0.0
+Apartamento;Ipanema;3;1;0;115;10000.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;80;4600.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;45;550.0;0.0;0.0
+Casa;Paquetá;10;0;10;976;20000.0;0.0;0.0
+Quitinete;Braz de Pina;1;0;0;30;450.0;0.0;0.0
+Apartamento;Vila da Penha;1;0;0;25;600.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;35;500.0;0.0;0.0
+Casa;Gávea;5;3;3;840;26000.0;0.0;1200.0
+Casa;Campo Grande;3;0;0;110;1600.0;0.0;0.0
+Casa;Campo Grande;2;0;0;75;1300.0;0.0;0.0
+Apartamento;Centro;1;0;0;43;2000.0;0.0;0.0
+Casa de Condomínio;Jardim Botânico;4;6;4;600;50000.0;0.0;0.0
+Casa;Vargem Pequena;2;3;2;300;7500.0;0.0;0.0
+Casa;Bangu;2;0;0;180;1450.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;4;0;0;686;9000.0;0.0;0.0
+Casa de Vila;Engenho de Dentro;2;0;1;50;1200.0;0.0;135.0
+Apartamento;Colégio;2;1;0;75;990.0;0.0;0.0
+Casa;Campo Grande;4;4;4;100;2000.0;0.0;2.0
+Flat;Jacarepaguá;1;0;1;16;1900.0;0.0;0.0
+Casa;Botafogo;4;4;3;335;12500.0;0.0;3857.0
+Casa;Campo Grande;2;1;0;50;1100.0;0.0;0.0
+Casa;Jardim Botânico;4;3;4;700;35000.0;0.0;1642.0
+Casa;Pechincha;2;0;0;55;1000.0;0.0;0.0
+Casa;Campo Grande;1;0;0;40;600.0;0.0;0.0
+Casa;Campo Grande;2;3;0;70;1500.0;0.0;0.0
+Apartamento;Tijuca;2;0;0;70;2100.0;0.0;77.0
+Casa;Oswaldo Cruz;1;0;0;36;800.0;0.0;0.0
+Casa;Jardim Botânico;4;2;2;380;15000.0;0.0;6700.0
+Apartamento;Leblon;2;1;0;65;4800.0;0.0;0.0
+Casa;Santíssimo;2;0;0;60;700.0;0.0;0.0
+Apartamento;Realengo;2;0;0;40;900.0;0.0;60.0
+Casa;Senador Vasconcelos;1;1;0;50;650.0;0.0;0.0
+Casa;Taquara;2;1;0;60;900.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;7;0;3;600;12000.0;0.0;6000.0
+Casa;Lagoa;6;2;3;700;19000.0;0.0;0.0
+Casa;Ramos;2;1;0;50;1000.0;0.0;120.0
+Apartamento;Irajá;2;0;0;75;1110.0;0.0;0.0
+Casa de Vila;Realengo;3;0;0;120;1200.0;0.0;0.0
+Casa;Higienópolis;3;5;0;250;2400.0;0.0;650.0
+Casa;Guaratiba;2;1;0;60;900.0;0.0;0.0
+Casa;Pedra de Guaratiba;4;0;0;90;3500.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;4;2;1;130;4500.0;0.0;0.0
+Casa;Tijuca;10;0;0;1050;45000.0;0.0;51784.0
+Apartamento;Vaz Lobo;1;1;1;44;800.0;0.0;0.0
+Apartamento;Tijuca;3;1;1;130;2000.0;0.0;0.0
+Apartamento;Irajá;2;0;0;31;750.0;0.0;0.0
+Casa;Vila da Penha;2;0;0;68;1000.0;0.0;0.0
+Apartamento;Flamengo;2;0;2;147;17000.0;0.0;0.0
+Casa;Guaratiba;3;1;0;65;1000.0;0.0;0.0
+Casa;Irajá;2;1;0;60;600.0;0.0;0.0
+Apartamento;Pedra de Guaratiba;2;0;0;60;900.0;0.0;0.0
+Apartamento;Leblon;1;0;0;45;3000.0;0.0;0.0
+Casa;Campo Grande;2;0;1;60;800.0;0.0;0.0
+Quitinete;Rocha Miranda;1;0;0;30;400.0;0.0;0.0
+Casa;Campo Grande;3;1;0;80;1000.0;0.0;0.0
+Casa;Glória;4;2;2;400;11000.0;0.0;0.0
+Casa;Urca;5;1;3;320;17000.0;0.0;396.0
+Casa;Campo Grande;2;1;0;100;1200.0;0.0;0.0
+Casa;Santa Teresa;3;2;1;200;4000.0;0.0;20.0
+Studio;Gamboa;0;0;0;110;1500.0;0.0;50.0
+Apartamento;Braz de Pina;2;0;0;49;1100.0;0.0;0.0
+Casa;Campo Grande;2;0;0;60;700.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;6;6;6;1000;24009.0;0.0;0.0
+Flat;Ipanema;1;1;1;65;4200.0;0.0;0.0
+Casa de Condomínio;São Conrado;3;3;1;400;7000.0;0.0;3000.0
+Apartamento;Bonsucesso;1;0;0;35;850.0;0.0;10.0
+Casa;Campo Grande;2;1;0;90;1300.0;0.0;0.0
+Casa de Condomínio;São Francisco Xavier;2;1;0;70;1100.0;0.0;0.0
+Apartamento;Copacabana;4;0;4;220;12800.0;0.0;0.0
+Casa;Vaz Lobo;2;1;0;98;990.0;0.0;0.0
+Apartamento;Freguesia (Jacarepaguá);1;0;0;28;550.0;0.0;0.0
+Apartamento;Copacabana;3;1;0;130;6000.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;25;2800.0;0.0;0.0
+Casa;Pedra de Guaratiba;2;1;0;60;800.0;0.0;0.0
+Casa de Condomínio;Ilha do Governador;3;4;1;160;3500.0;0.0;152.0
+Apartamento;São Conrado;0;4;0;450;22000.0;0.0;0.0
+Apartamento;Jardim Botânico;1;0;0;100;4700.0;0.0;0.0
+Casa;Santa Teresa;5;7;3;388;35000.0;0.0;277.0
+Apartamento;Turiaçu;2;0;1;42;900.0;0.0;0.0
+Flat;Ipanema;1;1;1;40;5500.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;4;2;1;194;4109.0;0.0;0.0
+Apartamento;Vicente de Carvalho;2;0;0;35;600.0;0.0;0.0
+Casa;Méier;2;0;0;57;900.0;0.0;0.0
+Apartamento;Cidade Nova;4;0;0;110;1300.0;0.0;0.0
+Casa;Centro;5;3;0;233;3000.0;0.0;659.0
+Casa de Condomínio;Campo Grande;1;0;0;50;700.0;0.0;0.0
+Casa;Jacarepaguá;3;2;1;239;3750.0;0.0;0.0
+Casa de Condomínio;Campo Grande;2;1;0;55;1000.0;0.0;0.0
+Apartamento;Colégio;2;0;1;90;1000.0;0.0;0.0
+Apartamento;Ipanema;2;1;2;86;13300.0;0.0;0.0
+Casa;Campo Grande;2;1;0;80;900.0;0.0;0.0
+Apartamento;Barra da Tijuca;2;1;2;83;6500.0;0.0;0.0
+Casa;Jardim Botânico;4;4;3;450;20000.0;0.0;1750.0
+Quitinete;Estácio;0;0;0;15;700.0;0.0;0.0
+Apartamento;Jardim Sulacap;1;0;0;72;880.0;0.0;13.0
+Apartamento;Barra da Tijuca;4;4;4;370;22000.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;45;3400.0;0.0;0.0
+Apartamento;Guaratiba;2;1;1;50;950.0;0.0;0.0
+Casa;Olaria;1;0;0;35;800.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;40;1500.0;0.0;0.0
+Apartamento;Copacabana;3;1;1;220;7700.0;0.0;0.0
+Casa;Gávea;0;0;0;160;15000.0;0.0;426.0
+Casa;Penha;1;0;0;27;800.0;0.0;0.0
+Casa de Condomínio;Joá;6;3;5;300;25000.0;0.0;0.0
+Casa;Campo Grande;2;0;0;100;1500.0;0.0;0.0
+Casa;Vaz Lobo;1;0;0;30;400.0;0.0;0.0
+Apartamento;Copacabana;3;1;2;120;6700.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;50;700.0;0.0;0.0
+Casa de Vila;Ipanema;3;2;0;130;6000.0;0.0;190.0
+Casa;Vicente de Carvalho;1;0;0;32;500.0;0.0;0.0
+Apartamento;Copacabana;4;0;1;60;3500.0;0.0;0.0
+Casa;Campo Grande;2;1;0;80;1215.0;0.0;0.0
+Casa;Engenho Novo;2;0;0;60;550.0;0.0;0.0
+Casa;Vicente de Carvalho;1;0;1;50;1000.0;0.0;0.0
+Apartamento;Rio Comprido;2;0;1;50;2200.0;0.0;200.0
+Casa;Vaz Lobo;2;1;0;90;1500.0;0.0;0.0
+Apartamento;Vista Alegre;2;0;0;37;1100.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;50;439.0;0.0;0.0
+Casa;Campo Grande;2;1;0;80;1290.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;48;720.0;0.0;0.0
+Casa de Vila;Engenho Novo;2;0;0;61;1000.0;0.0;0.0
+Quitinete;Centro;1;0;0;25;1750.0;0.0;0.0
+Casa;Inhoaíba;1;0;0;50;600.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;50;600.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;35;2300.0;0.0;0.0
+Apartamento;Tijuca;2;0;0;67;1800.0;0.0;24.0
+Apartamento;Barra da Tijuca;4;3;2;480;24991.0;0.0;0.0
+Casa;Barra da Tijuca;5;5;0;341;8200.0;0.0;794.0
+Casa de Vila;Padre Miguel;2;0;0;50;870.0;0.0;2.0
+Apartamento;Copacabana;2;0;1;78;3000.0;0.0;0.0
+Casa;Glória;5;0;3;265;8400.0;0.0;0.0
+Casa;Campo Grande;2;1;0;127;2500.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;60;750.0;0.0;0.0
+Apartamento;Copacabana;0;0;0;15;100.0;0.0;0.0
+Casa;Campo Grande;3;7;1;212;1500.0;0.0;846.0
+Apartamento;Ipanema;3;1;1;140;7000.0;0.0;0.0
+Casa;Campo Grande;2;1;1;65;800.0;0.0;0.0
+Casa de Condomínio;Itanhangá;4;8;4;1800;20000.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;55;800.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;18;1500.0;0.0;0.0
+Apartamento;Jardim Guanabara;2;1;0;65;1500.0;0.0;0.0
+Casa;Maracanã;2;0;0;85;1800.0;0.0;82.0
+Apartamento;Ipanema;2;1;1;85;7000.0;0.0;0.0
+Apartamento;Irajá;2;1;0;87;1456.0;0.0;0.0
+Casa de Vila;Ramos;1;0;0;40;750.0;0.0;0.0
+Casa;Catete;5;3;1;300;15000.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;50;500.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;55;700.0;0.0;2.0
+Casa;Campo Grande;3;3;0;140;1800.0;0.0;0.0
+Casa;Jardim Sulacap;2;1;1;60;1250.0;0.0;0.0
+Quitinete;Taquara;1;0;0;20;500.0;0.0;0.0
+Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;1749.0
+Casa;Parque Anchieta;3;4;0;200;1500.0;0.0;0.0
+Flat;Leblon;1;1;1;50;7000.0;0.0;0.0
+Apartamento;Lapa;1;0;0;22;1800.0;0.0;0.0
+Apartamento;Lagoa;4;3;1;210;9000.0;0.0;0.0
+Flat;Copacabana;1;0;0;60;4000.0;0.0;0.0
+Apartamento;Flamengo;3;1;1;240;4500.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;35;2000.0;0.0;0.0
+Casa;Vila Valqueire;2;1;0;60;1600.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;3;2;300;12000.0;0.0;0.0
+Casa;Campo Grande;2;1;0;110;1050.0;0.0;0.0
+Casa;Campo Grande;2;1;0;239;10000.0;0.0;0.0
+Casa de Condomínio;Campo Grande;2;1;0;74;1200.0;0.0;0.0
+Casa;Jardim Botânico;4;3;4;406;20000.0;0.0;1912.0
+Apartamento;Copacabana;1;0;0;41;3500.0;0.0;0.0
+Casa;Vila da Penha;4;4;1;200;4000.0;0.0;0.0
+Casa;Marechal Hermes;2;1;0;70;1300.0;0.0;0.0
+Flat;Ipanema;2;1;2;90;15000.0;0.0;0.0
+Casa;Campo Grande;1;0;0;50;450.0;0.0;2.0
+Apartamento;Copacabana;1;0;0;92;5100.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;2;1;1;174;2500.0;0.0;0.0
+Casa de Vila;Glória;1;0;0;89;2200.0;0.0;80.0
+Apartamento;Realengo;1;0;0;60;700.0;0.0;0.0
+Apartamento;Praça da Bandeira;1;0;0;50;1600.0;0.0;0.0
+Apartamento;Ipanema;3;1;1;250;12800.0;0.0;0.0
+Casa;Barra da Tijuca;1;0;0;130;5000.0;0.0;0.0
+Flat;Lagoa;2;2;2;84;9000.0;0.0;0.0
+Casa;Campo Grande;2;1;1;110;1500.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;6;0;4;600;10000.0;0.0;1080.0
+Apartamento;Copacabana;1;0;0;50;3000.0;0.0;0.0
+Casa de Vila;Botafogo;2;1;0;50;2000.0;0.0;0.0
+Casa de Vila;Pechincha;4;2;4;180;3000.0;0.0;0.0
+Casa de Condomínio;Joá;6;35;4;1100;22000.0;0.0;0.0
+Apartamento;Honório Gurgel;1;0;0;80;750.0;0.0;0.0
+Casa;Guaratiba;2;1;0;60;1000.0;0.0;0.0
+Apartamento;Vaz Lobo;2;0;0;70;1000.0;0.0;0.0
+Apartamento;Colégio;1;0;0;45;660.0;0.0;0.0
+Apartamento;Copacabana;3;1;2;95;9000.0;0.0;0.0
+Casa;Campo Grande;1;0;0;70;700.0;0.0;0.0
+Casa;Campo Grande;2;0;0;74;800.0;0.0;0.0
+Casa;Campo Grande;4;1;0;80;7000.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;50;550.0;0.0;0.0
+Casa;Rocha Miranda;1;2;0;47;850.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;40;2800.0;0.0;0.0
+Casa de Vila;Turiaçu;1;0;0;50;900.0;0.0;0.0
+Apartamento;Ilha do Governador;1;0;0;35;750.0;0.0;60.0
+Apartamento;Santo Cristo;2;0;0;70;850.0;0.0;0.0
+Casa de Vila;Taquara;0;0;0;28;500.0;0.0;35.0
+Apartamento;Barra da Tijuca;3;2;1;300;5991.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;55;500.0;0.0;0.0
+Apartamento;Laranjeiras;0;0;0;110;10000.0;0.0;0.0
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;260;12500.0;0.0;0.0
+Casa de Vila;Del Castilho;2;0;0;55;800.0;0.0;0.0
+Apartamento;Botafogo;3;2;1;110;5500.0;0.0;0.0
+Casa;Jardim América;1;0;0;45;500.0;0.0;0.0
+Casa;Pitangueiras;4;5;2;165;4700.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;30;2800.0;0.0;0.0
+Casa de Vila;Vila Militar;1;0;0;30;500.0;0.0;0.0
+Casa;Madureira;3;10;1;120;2300.0;0.0;0.0
+Apartamento;Leblon;4;0;2;180;12650.0;0.0;0.0
+Casa de Vila;Padre Miguel;1;0;0;40;670.0;0.0;2.0
+Casa;Pedra de Guaratiba;2;1;0;60;800.0;0.0;0.0
+Quitinete;Pedra de Guaratiba;1;0;0;70;400.0;0.0;0.0
+Casa;Maria da Graça;1;0;0;40;900.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;110;4900.0;0.0;0.0
+Apartamento;Barra da Tijuca;3;2;3;240;7491.0;0.0;0.0
+Apartamento;Freguesia (Jacarepaguá);1;0;0;28;500.0;0.0;0.0
+Casa;Campo Grande;2;1;1;70;1350.0;0.0;0.0
+Casa;Campo Grande;3;1;1;100;1500.0;0.0;0.0
+Quitinete;Santa Teresa;1;0;0;30;500.0;0.0;31.0
+Apartamento;Curicica;2;1;0;62;1400.0;0.0;0.0
+Apartamento;Tomás Coelho;2;1;0;50;1100.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;3;2;1;160;3000.0;0.0;330.0
+Casa;Jardim Carioca;2;1;0;107;1700.0;0.0;0.0
+Casa de Condomínio;Botafogo;5;0;0;600;18000.0;0.0;2300.0
+Apartamento;Campo Grande;1;0;0;21;330.0;0.0;0.0
+Casa;Camorim;2;2;1;90;2000.0;0.0;0.0
+Apartamento;Engenho Novo;2;0;0;57;1000.0;0.0;0.0
+Casa;Pavuna;1;0;0;40;550.0;0.0;0.0
+Apartamento;Oswaldo Cruz;2;0;0;50;800.0;0.0;0.0
+Casa de Condomínio;Guaratiba;2;2;2;75;1800.0;0.0;0.0
+Casa;Riachuelo;4;0;1;100;1800.0;0.0;40.0
+Casa;Méier;4;1;1;125;1900.0;0.0;0.0
+Casa;Rocha;3;2;1;111;1800.0;0.0;180.0
+Apartamento;Barra da Tijuca;2;1;1;92;2600.0;0.0;306.0
+Quitinete;Irajá;1;0;0;30;500.0;0.0;0.0
+Casa;Madureira;2;0;0;75;1500.0;0.0;0.0
+Casa;Abolição;1;0;0;50;1100.0;0.0;18.0
+Casa;Senador Camará;2;1;0;60;600.0;0.0;0.0
+Apartamento;Vila Isabel;3;0;1;98;3100.0;0.0;0.0
+Apartamento;Barra da Tijuca;1;1;0;71;4500.0;0.0;0.0
+Apartamento;Leblon;2;0;1;60;5250.0;0.0;0.0
+Apartamento;Pavuna;2;0;0;54;850.0;0.0;0.0
+Apartamento;Irajá;2;0;0;79;1300.0;0.0;0.0
+Casa;Tijuca;4;5;0;274;19000.0;0.0;0.0
+Apartamento;Piedade;2;0;0;50;1400.0;0.0;0.0
+Apartamento;Vaz Lobo;2;0;0;50;900.0;0.0;0.0
+Casa;Copacabana;3;1;2;150;8000.0;0.0;99.0
+Casa;Bonsucesso;2;1;0;70;3000.0;0.0;150.0
+Casa;Parque Anchieta;2;0;0;100;1000.0;0.0;0.0
+Casa;Jardim Botânico;4;1;4;356;20000.0;0.0;1189.0
+Casa;Botafogo;4;2;0;221;13000.0;0.0;0.0
+Casa;Jardim Botânico;5;5;4;450;35000.0;0.0;1540.0
+Quitinete;Piedade;1;0;0;35;670.0;0.0;0.0
+Casa;Vila Kosmos;2;0;2;63;2300.0;0.0;0.0
+Casa de Vila;Campo Grande;1;0;0;50;550.0;0.0;0.0
+Casa;Pavuna;2;0;0;40;500.0;0.0;0.0
+Apartamento;Ipanema;2;1;1;86;12000.0;0.0;0.0
+Casa;Braz de Pina;2;0;0;27;900.0;0.0;0.0
+Apartamento;Riachuelo;1;0;0;35;850.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;35;5000.0;0.0;0.0
+Casa;Vila Valqueire;2;1;0;93;1200.0;0.0;0.0
+Apartamento;Freguesia (Jacarepaguá);2;2;1;53;1750.0;0.0;0.0
+Casa;Quintino Bocaiúva;2;1;0;80;1500.0;0.0;0.0
+Apartamento;Vila da Penha;2;0;0;60;1100.0;0.0;0.0
+Apartamento;Braz de Pina;2;0;0;60;950.0;0.0;0.0
+Casa;Senador Vasconcelos;1;0;0;40;700.0;0.0;0.0
+Casa de Condomínio;Vargem Pequena;2;1;2;90;1800.0;0.0;0.0
+Casa;Campo Grande;2;1;1;70;850.0;0.0;0.0
+Casa;Campo Grande;3;1;0;80;1300.0;0.0;0.0
+Apartamento;Higienópolis;1;0;0;30;850.0;0.0;0.0
+Casa;Jardim Botânico;4;3;3;500;18500.0;0.0;993.0
+Apartamento;Copacabana;1;0;0;40;2500.0;0.0;0.0
+Apartamento;Copacabana;3;1;1;150;5800.0;0.0;0.0
+Casa de Vila;Quintino Bocaiúva;2;1;0;60;1100.0;0.0;0.0
+Casa;Jardim Botânico;5;4;4;2252;35000.0;0.0;1794.0
+Apartamento;Tanque;2;1;0;73;900.0;0.0;13.0
+Casa de Vila;Irajá;2;0;0;80;1310.0;0.0;0.0
+Apartamento;Leblon;3;3;2;250;25000.0;0.0;0.0
+Apartamento;Maria da Graça;3;0;0;85;1100.0;0.0;0.0
+Apartamento;Copacabana;3;0;0;90;1200.0;0.0;0.0
+Apartamento;Quintino Bocaiúva;2;1;0;70;1000.0;0.0;0.0
+Casa;Piedade;1;0;0;30;650.0;0.0;0.0
+Casa;Freguesia (Jacarepaguá);4;3;0;260;5000.0;0.0;380.0
+Casa de Condomínio;Campo Grande;2;1;0;78;1000.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;80;500.0;0.0;0.0
+Casa;Humaitá;4;2;2;430;8000.0;0.0;0.0
+Casa;Campo Grande;2;1;0;80;1200.0;0.0;0.0
+Apartamento;Lagoa;3;3;1;252;7700.0;0.0;0.0
+Casa;Campo Grande;2;4;0;80;1200.0;0.0;0.0
+Apartamento;Vicente de Carvalho;2;0;0;70;1100.0;0.0;0.0
+Casa;Guadalupe;2;0;0;100;950.0;0.0;0.0
+Apartamento;Guadalupe;2;0;0;49;550.0;0.0;0.0
+Apartamento;Campo Grande;3;1;1;75;1400.0;0.0;0.0
+Casa de Vila;Vicente de Carvalho;2;0;0;80;800.0;0.0;0.0
+Casa;Lagoa;4;2;3;409;10000.0;0.0;1025.0
+Apartamento;Honório Gurgel;1;0;0;80;750.0;0.0;0.0
+Apartamento;Penha;1;0;0;75;1500.0;0.0;0.0
+Apartamento;Braz de Pina;1;0;0;30;850.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;3;2;1;108;2800.0;0.0;0.0
+Apartamento;Pedra de Guaratiba;2;1;0;75;700.0;0.0;0.0
+Casa;Lagoa;10;0;0;500;26000.0;0.0;2670.0
+Apartamento;Copacabana;1;1;0;45;4000.0;0.0;0.0
+Apartamento;Guadalupe;1;0;0;60;700.0;0.0;0.0
+Casa;Santa Teresa;3;3;0;360;12000.0;0.0;104.0
+Casa;Campo Grande;2;0;0;60;700.0;0.0;0.0
+Apartamento;Catete;1;0;0;30;2500.0;0.0;0.0
+Apartamento;Ramos;3;1;0;75;1600.0;0.0;0.0
+Casa;Encantado;2;0;0;74;1300.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;3;4;262;16000.0;0.0;700.0
+Casa;Inhoaíba;2;0;0;70;850.0;0.0;0.0
+Casa;Campo Grande;2;0;0;70;1100.0;0.0;0.0
+Apartamento;Olaria;2;0;0;57;900.0;0.0;0.0
+Apartamento;Pedra de Guaratiba;1;0;0;42;580.0;0.0;0.0
+Casa;Guaratiba;2;1;0;60;900.0;0.0;0.0
+Casa;Guaratiba;2;1;0;60;800.0;0.0;0.0
+Apartamento;Tomás Coelho;2;1;0;50;1100.0;0.0;0.0
+Casa de Vila;Ramos;1;0;0;40;500.0;0.0;0.0
+Casa;Campo Grande;1;0;0;65;600.0;0.0;0.0
+Casa;Irajá;2;0;0;35;750.0;0.0;0.0
+Flat;Barra da Tijuca;1;1;1;45;4300.0;0.0;0.0
+Casa;Campo Grande;2;0;0;58;900.0;0.0;0.0
+Apartamento;Ipanema;2;1;0;90;8000.0;0.0;0.0
+Casa;Campo Grande;1;0;0;50;550.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;50;600.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;30;550.0;0.0;0.0
+Casa;Irajá;1;1;0;45;800.0;0.0;0.0
+Apartamento;Rocha Miranda;2;0;0;80;800.0;0.0;0.0
+Casa;Parque Anchieta;2;3;0;98;1400.0;0.0;0.0
+Quitinete;Tijuca;1;0;0;30;990.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;65;2500.0;0.0;0.0
+Casa de Vila;Guaratiba;2;0;0;50;500.0;0.0;0.0
+Casa;Campo Grande;1;0;0;55;650.0;0.0;0.0
+Casa de Vila;Campo Grande;1;0;0;40;550.0;0.0;0.0
+Apartamento;Senador Vasconcelos;1;1;0;80;690.0;0.0;0.0
+Casa;Realengo;3;4;1;400;2000.0;0.0;223.0
+Apartamento;Santa Teresa;3;0;0;92;2500.0;0.0;162.0
+Casa;Freguesia (Jacarepaguá);3;2;2;80;2000.0;0.0;821.0
+Casa;Campo Grande;2;1;0;110;1300.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;40;500.0;0.0;0.0
+Casa;Campo Grande;2;1;1;100;1000.0;0.0;0.0
+Apartamento;Rocha Miranda;2;0;0;70;750.0;0.0;0.0
+Casa de Vila;Ramos;2;0;0;50;800.0;0.0;0.0
+Apartamento;Copacabana;3;2;0;282;12000.0;0.0;0.0
+Casa;Campo Grande;1;0;0;55;500.0;0.0;0.0
+Apartamento;Vila Valqueire;2;0;0;56;1300.0;0.0;0.0
+Casa de Condomínio;Vargem Grande;3;2;1;160;3000.0;0.0;0.0
+Flat;Leblon;1;1;1;70;8000.0;0.0;0.0
+Apartamento;Barra da Tijuca;1;1;0;50;2200.0;0.0;565.0
+Casa de Vila;Oswaldo Cruz;2;0;0;50;700.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;55;800.0;0.0;2.0
+Casa;Vila da Penha;2;0;0;42;900.0;0.0;0.0
+Apartamento;Vila da Penha;1;0;0;35;800.0;0.0;0.0
+Casa;Campo Grande;2;1;0;70;800.0;0.0;0.0
+Casa;Riachuelo;3;1;0;85;1350.0;0.0;18.0
+Apartamento;Barra da Tijuca;3;2;1;110;3300.0;0.0;0.0
+Casa;Campo Grande;1;0;0;100;1500.0;0.0;0.0
+Apartamento;Barra da Tijuca;2;1;1;73;2999.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;70;2600.0;0.0;0.0
+Apartamento;Gardênia Azul;1;0;0;30;705.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;75;990.0;0.0;0.0
+Apartamento;Anchieta;2;1;0;60;700.0;0.0;0.0
+Apartamento;Leblon;2;0;1;80;4500.0;0.0;0.0
+Casa;Campo Grande;3;1;1;100;1500.0;0.0;0.0
+Casa;Lins de Vasconcelos;2;1;0;93;1500.0;0.0;17.0
+Apartamento;Penha;1;0;0;45;900.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;4;3;2;180;3200.0;0.0;0.0
+Apartamento;Tanque;2;0;0;140;800.0;0.0;28.0
+Apartamento;Campo Grande;2;0;0;70;750.0;0.0;0.0
+Apartamento;Guadalupe;2;0;0;70;800.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;2;3;1;130;3200.0;0.0;300.0
+Flat;Copacabana;1;1;1;60;4500.0;0.0;0.0
+Casa;Vila Isabel;3;0;0;75;2100.0;0.0;67.0
+Casa;Jardim Botânico;4;1;4;387;25000.0;0.0;582.0
+Apartamento;Higienópolis;1;0;0;45;700.0;0.0;25.0
+Casa;Pedra de Guaratiba;2;3;0;100;1200.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;55;850.0;0.0;0.0
+Casa;Méier;2;1;0;120;2000.0;0.0;70.0
+Quitinete;Leblon;0;0;0;30;1800.0;0.0;0.0
+Casa;Vila Valqueire;5;20;0;460;16000.0;0.0;0.0
+Apartamento;Ricardo de Albuquerque;1;0;0;25;350.0;0.0;0.0
+Apartamento;Piedade;2;1;0;55;900.0;0.0;0.0
+Casa de Vila;Paquetá;1;0;0;50;1100.0;0.0;7.0
+Apartamento;Barra da Tijuca;0;0;0;15;100.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;4;4;278;15000.0;0.0;0.0
+Casa;Campo Grande;2;3;0;80;1300.0;0.0;0.0
+Casa;Jardim Botânico;3;0;0;115;4500.0;0.0;229.0
+Apartamento;Copacabana;2;0;1;90;3500.0;0.0;0.0
+Casa;Senador Vasconcelos;1;0;0;50;500.0;0.0;0.0
+Casa;Centro;2;0;1;180;4200.0;0.0;0.0
+Apartamento;Anil;1;0;0;52;1000.0;0.0;0.0
+Apartamento;Jardim Carioca;3;1;0;106;1500.0;0.0;105.0
+Casa;Inhaúma;1;0;0;40;550.0;0.0;0.0
+Apartamento;Copacabana;3;1;2;160;12000.0;0.0;0.0
+Apartamento;Rocha Miranda;1;0;0;28;800.0;0.0;0.0
+Casa;Campo Grande;1;1;0;50;800.0;0.0;0.0
+Casa;Anil;2;3;1;230;3500.0;0.0;180.0
+Casa;Camorim;3;5;1;210;5000.0;0.0;70.0
+Casa;Guaratiba;3;1;3;60;1100.0;0.0;0.0
+Casa;Campo Grande;3;1;0;120;2000.0;0.0;0.0
+Apartamento;Tijuca;1;0;0;30;1600.0;0.0;0.0
+Casa de Condomínio;Campo Grande;3;3;2;192;1400.0;0.0;0.0
+Apartamento;Lins de Vasconcelos;2;0;0;62;700.0;0.0;0.0
+Apartamento;Vicente de Carvalho;1;0;0;33;500.0;0.0;17.0
+Apartamento;Barra da Tijuca;2;2;2;82;6000.0;0.0;0.0
+Casa;Pavuna;2;0;0;35;850.0;0.0;0.0
+Casa;Barra da Tijuca;6;0;0;324;7000.0;0.0;300.0
+Quitinete;Flamengo;1;0;0;35;2000.0;0.0;29.0
+Apartamento;Recreio dos Bandeirantes;3;2;0;110;1900.0;0.0;232.0
+Quitinete;Gardênia Azul;1;0;0;20;500.0;0.0;0.0
+Casa;Vaz Lobo;2;0;0;45;800.0;0.0;0.0
+Casa;Vicente de Carvalho;4;3;2;304;2500.0;0.0;0.0
+Apartamento;Copacabana;3;0;2;100;6000.0;0.0;0.0
+Casa;Tijuca;3;0;0;45;2500.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;35;500.0;0.0;0.0
+Quitinete;Vila da Penha;1;0;0;30;650.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;40;480.0;0.0;0.0
+Quitinete;Braz de Pina;0;0;0;25;800.0;0.0;0.0
+Casa;Maracanã;5;1;0;161;6000.0;0.0;0.0
+Apartamento;Olaria;1;0;0;25;790.0;0.0;0.0
+Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;0.0
+Casa;Gávea;3;2;3;200;12000.0;0.0;400.0
+Flat;Barra da Tijuca;1;1;0;50;2000.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;35;2000.0;0.0;0.0
+Apartamento;Copacabana;3;0;3;70;3600.0;0.0;0.0
+Apartamento;Benfica;2;0;0;52;1000.0;0.0;15.0
+Casa;Ramos;3;1;0;160;1700.0;0.0;45.0
+Casa;Pechincha;3;4;1;379;5500.0;0.0;0.0
+Apartamento;Realengo;2;0;0;73;900.0;0.0;0.0
+Apartamento;Campo Grande;3;1;1;100;1800.0;0.0;0.0
+Casa;Vila da Penha;2;1;1;65;1400.0;0.0;0.0
+Casa;Pedra de Guaratiba;2;1;0;60;1000.0;0.0;0.0
+Casa de Vila;Cascadura;1;0;0;23;750.0;0.0;0.0
+Casa;Vila da Penha;3;2;1;100;2000.0;0.0;0.0
+Casa;Parada de Lucas;2;0;0;80;1600.0;0.0;0.0
+Apartamento;Guadalupe;1;0;0;35;450.0;0.0;0.0
+Apartamento;Pechincha;1;0;0;40;900.0;0.0;13.0
+Apartamento;Copacabana;2;1;1;62;3800.0;0.0;0.0
+Casa;Vila Isabel;4;4;4;337;4500.0;0.0;337.0
+Apartamento;Cascadura;3;1;1;500;3500.0;0.0;0.0
+Apartamento;Jacaré;2;0;0;50;900.0;0.0;0.0
+Apartamento;Barra da Tijuca;2;1;2;83;9000.0;0.0;0.0
+Apartamento;Penha;1;0;0;40;850.0;0.0;0.0
+Casa;Oswaldo Cruz;1;0;0;35;650.0;0.0;0.0
+Casa;Jardim Botânico;4;4;4;845;35000.0;0.0;1643.0
+Flat;Barra da Tijuca;1;1;0;51;4200.0;0.0;0.0
+Casa;Jardim Botânico;4;3;1;263;28000.0;0.0;0.0
+Apartamento;Guadalupe;1;0;0;25;450.0;0.0;0.0
+Apartamento;Penha;2;0;0;80;900.0;0.0;0.0
+Casa de Vila;Cachambi;3;0;0;110;1700.0;0.0;0.0
+Casa;Campo Grande;2;2;0;80;1200.0;0.0;0.0
+Casa;Inhoaíba;2;1;0;85;1000.0;0.0;0.0
+Apartamento;Barra da Tijuca;1;1;1;70;3500.0;0.0;0.0
+Apartamento;Bonsucesso;2;0;0;80;1800.0;0.0;0.0
+Flat;Leblon;1;1;0;55;7000.0;0.0;0.0
+Apartamento;Botafogo;1;0;0;30;2300.0;0.0;0.0
+Apartamento;Leblon;4;2;1;150;8000.0;0.0;0.0
+Apartamento;Ipanema;3;1;1;150;10000.0;0.0;0.0
+Apartamento;Santa Teresa;0;0;0;10;1200.0;0.0;0.0
+Apartamento;Santa Teresa;1;0;0;50;1200.0;0.0;27.0
+Apartamento;Copacabana;2;0;0;40;3800.0;0.0;0.0
+Apartamento;Leblon;4;1;1;201;18000.0;0.0;0.0
+Apartamento;Piedade;2;0;0;54;1100.0;0.0;0.0
+Apartamento;Copacabana;1;0;1;50;2700.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;78;800.0;0.0;0.0
+Casa;Botafogo;8;3;0;418;15000.0;0.0;0.0
+Casa;Campo Grande;2;0;1;80;1100.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;4;3;4;260;4000.0;0.0;0.0
+Apartamento;Tijuca;2;0;0;80;1800.0;0.0;0.0
+Casa;Gávea;3;2;3;1100;30000.0;0.0;1900.0
+Flat;Lapa;1;0;1;32;2950.0;0.0;0.0
+Apartamento;Méier;0;2;0;86;1700.0;0.0;54.0
+Apartamento;Barra da Tijuca;1;1;0;28;3000.0;0.0;0.0
+Casa;Campo Grande;2;0;1;60;900.0;0.0;0.0
+Casa de Vila;Madureira;2;1;0;78;1000.0;0.0;0.0
+Apartamento;Piedade;2;0;0;70;900.0;0.0;0.0
+Flat;Recreio dos Bandeirantes;1;1;0;48;3400.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;3;4;3;360;12000.0;0.0;6072.0
+Casa;Recreio dos Bandeirantes;4;5;3;360;15000.0;0.0;5624.0
+Casa de Vila;Bonsucesso;1;0;0;30;800.0;0.0;0.0
+Casa;Jardim Botânico;4;3;0;531;18000.0;0.0;702.0
+Casa de Condomínio;Barra da Tijuca;6;4;4;622;10000.0;0.0;0.0
+Casa;Glória;4;3;2;851;22000.0;0.0;980.0
+Apartamento;Abolição;2;0;0;65;1200.0;0.0;17.0
+Casa;Campo Grande;1;0;0;50;500.0;0.0;0.0
+Apartamento;Copacabana;3;0;1;190;7000.0;0.0;0.0
+Casa de Vila;Bento Ribeiro;1;1;0;50;900.0;0.0;0.0
+Apartamento;Guadalupe;1;0;0;33;500.0;0.0;0.0
+Casa;Bonsucesso;6;2;1;180;4500.0;0.0;0.0
+Casa;Campo Grande;2;1;2;90;1200.0;0.0;0.0
+Casa de Vila;Olaria;2;0;0;51;1000.0;0.0;0.0
+Apartamento;Campo Grande;3;1;0;90;1000.0;0.0;0.0
+Casa;Campo Grande;2;0;1;54;1000.0;0.0;0.0
+Apartamento;Méier;2;0;0;130;1950.0;0.0;0.0
+Apartamento;Copacabana;3;1;2;220;12000.0;0.0;0.0
+Apartamento;Rocha;2;1;0;68;1000.0;0.0;0.0
+Apartamento;Catete;1;0;0;35;2700.0;0.0;0.0
+Casa de Vila;Taquara;1;0;0;60;1000.0;0.0;0.0
+Casa;Jacarepaguá;8;20;7;2000;15000.0;0.0;0.0
+Apartamento;Ipanema;1;1;0;90;7000.0;0.0;0.0
+Casa;Freguesia (Jacarepaguá);3;2;0;140;2200.0;0.0;128.0
+Casa de Vila;Guadalupe;1;0;0;45;700.0;0.0;0.0
+Quitinete;Realengo;1;0;0;60;650.0;0.0;0.0
+Apartamento;Vila da Penha;1;0;0;40;800.0;0.0;0.0
+Casa de Vila;Laranjeiras;3;1;0;115;4200.0;0.0;128.0
+Casa;Jardim Botânico;5;4;1;845;35000.0;0.0;1540.0
+Apartamento;Madureira;1;0;0;40;600.0;0.0;0.0
+Casa de Condomínio;Campo Grande;2;1;0;85;1000.0;0.0;0.0
+Apartamento;Ipanema;2;1;0;90;7000.0;0.0;0.0
+Casa;Jardim Botânico;4;3;4;451;20000.0;0.0;1750.0
+Quitinete;Ramos;1;0;0;25;680.0;0.0;0.0
+Apartamento;Lagoa;4;1;4;398;17000.0;0.0;0.0
+Casa;Gávea;4;4;0;450;13000.0;0.0;600.0
+Casa de Vila;Tijuca;2;0;0;71;2500.0;0.0;60.0
+Apartamento;Taquara;1;0;0;50;800.0;0.0;13.0
+Apartamento;Cosmos;2;0;0;43;750.0;0.0;0.0
+Casa de Vila;Abolição;2;0;0;68;1200.0;0.0;12.0
+Quitinete;Ipanema;1;0;0;23;2200.0;0.0;300.0
+Casa;Engenho de Dentro;2;0;0;33;900.0;0.0;16.0
+Apartamento;Barra da Tijuca;1;2;1;85;3800.0;0.0;0.0
+Apartamento;Senador Vasconcelos;2;0;0;60;700.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;41;690.0;0.0;0.0
+Casa;Glória;6;2;0;400;10000.0;0.0;370.0
+Apartamento;Ipanema;1;0;0;50;4000.0;0.0;0.0
+Apartamento;Jardim Guanabara;2;1;0;70;1600.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;1;1;78;3500.0;0.0;0.0
+Apartamento;Rocha Miranda;1;0;0;65;650.0;0.0;0.0
+Casa;Campo Grande;1;0;0;50;700.0;0.0;0.0
+Casa;Campo Grande;2;1;2;100;1400.0;0.0;0.0
+Casa de Condomínio;Guaratiba;2;1;0;63;900.0;0.0;0.0
+Casa de Vila;Guadalupe;1;0;0;40;650.0;0.0;10.0
+Casa;Cachambi;2;1;1;77;1300.0;0.0;0.0
+Casa;Gávea;3;1;3;450;18000.0;0.0;1000.0
+Apartamento;Tomás Coelho;2;0;0;80;1160.0;0.0;0.0
+Casa;Méier;3;0;0;230;1800.0;0.0;0.0
+Apartamento;Maria da Graça;2;1;0;50;1500.0;0.0;0.0
+Apartamento;Tijuca;3;1;1;85;2500.0;0.0;0.0
+Quitinete;Cordovil;1;0;0;30;400.0;0.0;0.0
+Quitinete;Vila da Penha;1;0;0;25;550.0;0.0;0.0
+Casa;Campo Grande;3;1;0;90;950.0;0.0;0.0
+Apartamento;Higienópolis;1;0;0;45;800.0;0.0;0.0
+Casa;Méier;4;5;3;357;5900.0;0.0;3759.0
+Casa;Bangu;2;2;0;110;1650.0;0.0;0.0
+Casa;Campo Grande;3;0;1;80;1200.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;3;2;1;181;5999.0;0.0;0.0
+Casa de Condomínio;Bangu;3;1;0;100;1500.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;3;4;152;5000.0;0.0;0.0
+Casa;Bangu;2;1;0;75;850.0;0.0;0.0
+Apartamento;Cascadura;2;0;0;96;1150.0;0.0;77.0
+Casa;Freguesia (Jacarepaguá);3;2;1;399;10000.0;0.0;0.0
+Apartamento;Ramos;2;0;0;68;1200.0;0.0;0.0
+Apartamento;Marechal Hermes;1;0;0;29;490.0;0.0;0.0
+Casa;Tijuca;4;3;3;164;3900.0;0.0;175.0
+Casa;Campo Grande;1;1;0;80;750.0;0.0;2.0
+Casa;Jardim Botânico;5;2;5;500;20000.0;0.0;1912.0
+Apartamento;Campo Grande;2;1;1;50;950.0;0.0;0.0
+Apartamento;Realengo;6;0;0;250;3000.0;0.0;0.0
+Apartamento;Maracanã;3;0;0;150;1800.0;0.0;106.0
+Casa;Irajá;1;0;0;40;750.0;0.0;0.0
+Flat;Ipanema;1;1;0;60;7000.0;0.0;0.0
+Casa;Jardim Botânico;5;4;1;845;35000.0;0.0;1540.0
+Casa;Riachuelo;2;2;0;92;1300.0;0.0;53.0
+Casa de Vila;Riachuelo;2;0;0;56;1090.0;0.0;0.0
+Casa;Urca;4;3;4;684;35000.0;0.0;0.0
+Casa;Botafogo;3;0;0;88;5800.0;0.0;0.0
+Casa;Padre Miguel;2;0;0;110;1400.0;0.0;0.0
+Casa;Campo Grande;3;3;0;125;2500.0;0.0;0.0
+Casa de Condomínio;Guaratiba;2;1;2;75;1700.0;0.0;0.0
+Casa;Vista Alegre;1;0;0;50;900.0;0.0;0.0
+Casa;Campo Grande;1;0;0;50;650.0;0.0;55.0
+Casa;Gávea;4;4;4;1097;30000.0;0.0;16654.0
+Apartamento;Copacabana;3;0;2;50;4500.0;0.0;0.0
+Casa de Vila;São Cristóvão;1;0;0;60;1100.0;0.0;0.0
+Casa;Cascadura;2;0;0;50;1000.0;0.0;0.0
+Apartamento;Ipanema;1;0;0;40;4000.0;0.0;0.0
+Apartamento;Jardim Botânico;3;0;0;96;3700.0;0.0;0.0
+Casa;Centro;6;0;0;360;12000.0;0.0;120.0
+Casa;Campo Grande;3;1;2;200;12000.0;0.0;0.0
+Casa;Santo Cristo;5;0;0;85;1200.0;0.0;0.0
+Casa de Vila;Méier;2;0;0;80;1350.0;0.0;150.0
+Quitinete;Bento Ribeiro;1;1;0;30;480.0;0.0;0.0
+Casa;Tijuca;7;2;0;340;10000.0;0.0;1944.0
+Apartamento;Curicica;2;1;0;52;1200.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;2;1;125;3900.0;0.0;350.0
+Casa;Campo Grande;1;0;0;55;500.0;0.0;0.0
+Apartamento;Irajá;2;0;0;60;1300.0;0.0;0.0
+Casa;Campo Grande;2;1;0;75;800.0;0.0;25.0
+Apartamento;Leme;3;1;2;200;22000.0;0.0;0.0
+Casa;Pilares;2;0;1;100;1100.0;0.0;0.0
+Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;1749.0
+Casa de Vila;Ramos;1;1;0;47;1000.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;95;6000.0;0.0;0.0
+Apartamento;Arpoador;2;2;2;81;6500.0;0.0;0.0
+Casa;Jacarepaguá;5;1;1;540;4500.0;0.0;0.0
+Casa de Condomínio;Vargem Grande;2;0;0;70;1500.0;0.0;0.0
+Casa;Vila Valqueire;3;1;0;100;1500.0;0.0;0.0
+Apartamento;Leblon;1;0;0;35;4000.0;0.0;0.0
+Casa;Campo Grande;2;3;0;120;1200.0;0.0;30.0
+Casa;Ramos;2;0;0;48;800.0;0.0;0.0
+Casa;Vila da Penha;3;0;1;300;2700.0;0.0;0.0
+Casa;Bangu;1;0;0;40;600.0;0.0;0.0
+Apartamento;Realengo;2;0;0;55;800.0;0.0;0.0
+Casa;Quintino Bocaiúva;2;0;0;60;1200.0;0.0;0.0
+Casa;Campo Grande;2;1;2;100;1500.0;0.0;30.0
+Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;1749.0
+Apartamento;Ipanema;3;1;1;100;10000.0;0.0;0.0
+Apartamento;Ramos;2;0;0;78;1200.0;0.0;0.0
+Casa;Curicica;2;0;1;70;1500.0;0.0;89.0
+Casa;Grajaú;3;0;1;73;2000.0;0.0;100.0
+Casa;Piedade;1;0;0;40;750.0;0.0;16.0
+Casa de Condomínio;Barra da Tijuca;5;6;2;703;15000.0;0.0;0.0
+Apartamento;Gardênia Azul;1;1;0;39;790.0;0.0;0.0
+Casa;Tanque;3;1;0;230;2500.0;0.0;967.0
+Casa;Vargem Pequena;2;0;2;80;1800.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;2;1;0;52;2200.0;0.0;0.0
+Casa de Vila;Jacarepaguá;2;1;1;70;1200.0;0.0;0.0
+Casa;Jardim Sulacap;2;2;1;70;1500.0;0.0;0.0
+Apartamento;Jardim América;2;0;0;70;750.0;0.0;0.0
+Casa de Vila;Engenho de Dentro;3;0;0;100;2000.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;6;6;4;1100;34009.0;0.0;0.0
+Casa;Urca;5;3;3;350;16000.0;0.0;500.0
+Apartamento;Barra da Tijuca;4;4;4;429;25000.0;0.0;0.0
+Casa de Condomínio;Bangu;2;0;0;92;750.0;0.0;0.0
+Casa;Jardim Botânico;4;1;2;500;15000.0;0.0;450.0
+Apartamento;Glória;1;0;0;50;2100.0;0.0;27.0
+Casa de Condomínio;Jardim Botânico;4;5;4;845;35000.0;0.0;1794.0
+Casa;Taquara;1;0;0;60;1000.0;0.0;0.0
+Apartamento;Leblon;3;2;1;120;9850.0;0.0;0.0
+Casa de Vila;Cachambi;2;1;0;76;1508.0;0.0;0.0
+Casa;Campo Grande;1;0;0;50;400.0;0.0;0.0
+Casa;Vila da Penha;1;0;0;100;800.0;0.0;0.0
+Casa;Pilares;2;0;0;65;1100.0;0.0;0.0
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;2;200;3000.0;0.0;0.0
+Casa;Gávea;5;8;5;1000;25000.0;0.0;14000.0
+Casa;Campo Grande;1;0;0;60;450.0;0.0;20.0
+Apartamento;Vila da Penha;2;0;0;65;950.0;0.0;0.0
+Casa;Oswaldo Cruz;1;0;0;50;700.0;0.0;0.0
+Apartamento;Gardênia Azul;2;0;0;38;800.0;0.0;0.0
+Casa;Curicica;2;0;0;100;1200.0;0.0;43.0
+Casa de Vila;Oswaldo Cruz;1;0;0;50;730.0;0.0;0.0
+Casa de Vila;Engenho de Dentro;2;0;0;58;1000.0;0.0;13.0
+Apartamento;Barra da Tijuca;1;0;0;38;3600.0;0.0;0.0
+Casa de Condomínio;Guaratiba;3;2;1;130;1800.0;0.0;0.0
+Casa de Vila;Flamengo;3;0;0;132;4800.0;0.0;500.0
+Apartamento;Barra da Tijuca;4;3;4;340;7909.0;0.0;0.0
+Apartamento;Campo Grande;3;0;2;80;1200.0;0.0;2.0
+Casa;Catete;10;0;10;200;15000.0;0.0;200.0
+Casa;Irajá;1;0;0;45;600.0;0.0;17.0
+Apartamento;Lagoa;3;1;0;105;4200.0;0.0;0.0
+Casa de Vila;Botafogo;2;0;0;60;2900.0;0.0;68.0
+Casa;Jacarepaguá;2;1;1;70;1400.0;0.0;130.0
+Apartamento;Copacabana;1;0;0;30;2900.0;0.0;0.0
+Flat;Leblon;1;1;1;40;6000.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;0;4;206;7000.0;0.0;0.0
+Quitinete;Catete;0;0;0;24;1300.0;0.0;0.0
+Apartamento;Barra da Tijuca;1;1;1;60;6500.0;0.0;0.0
+Casa;Campo Grande;2;4;0;60;1600.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;3;20;1;100;8000.0;0.0;0.0
+Casa de Vila;Quintino Bocaiúva;1;0;0;34;600.0;0.0;0.0
+Casa;Joá;6;30;2;1200;28000.0;0.0;1581.0
+Casa;Recreio dos Bandeirantes;4;2;3;600;15000.0;0.0;6072.0
+Apartamento;Ramos;1;0;0;58;900.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;3;2;0;220;3400.0;0.0;0.0
+Casa;Bangu;2;0;0;75;850.0;0.0;0.0
+Casa;Campo Grande;2;5;0;75;1050.0;0.0;0.0
+Quitinete;Copacabana;1;0;0;20;2200.0;0.0;0.0
+Casa;Pechincha;5;5;2;420;4500.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;4;3;1;298;8000.0;0.0;3208.0
+Casa;Rocha Miranda;1;0;0;55;800.0;0.0;0.0
+Casa;Irajá;2;0;0;70;1100.0;0.0;0.0
+Apartamento;Barra da Tijuca;3;2;1;120;5491.0;0.0;0.0
+Casa;Maracanã;3;0;0;105;1700.0;0.0;90.0
+Apartamento;Vila da Penha;1;0;0;35;500.0;0.0;0.0
+Casa de Vila;Cascadura;1;0;0;36;750.0;0.0;0.0
+Casa de Vila;Maracanã;2;0;0;65;1600.0;0.0;0.0
+Casa de Vila;Ramos;3;1;0;90;1500.0;0.0;0.0
+Casa;Moneró;5;2;1;278;3500.0;0.0;3997.0
+Casa;Braz de Pina;3;2;0;90;2000.0;0.0;296.0
+Apartamento;Todos os Santos;2;0;0;50;900.0;0.0;7.0
+Apartamento;Cascadura;3;1;1;100;1300.0;0.0;0.0
+Apartamento;Engenho Novo;3;0;0;50;1100.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;50;2000.0;0.0;0.0
+Apartamento;Leblon;4;2;1;150;8000.0;0.0;0.0
+Flat;Ipanema;2;1;2;78;15000.0;0.0;0.0
+Apartamento;Bangu;2;1;1;55;1200.0;0.0;2.0
+Casa;Freguesia (Jacarepaguá);3;4;1;318;4500.0;0.0;353.0
+Apartamento;Rio Comprido;2;1;0;70;1500.0;0.0;600.0
+Casa;Vila da Penha;1;0;0;45;800.0;0.0;0.0
+Casa;Santa Teresa;2;0;0;60;1400.0;0.0;56.0
+Apartamento;Botafogo;1;0;0;25;2000.0;0.0;0.0
+Apartamento;Ipanema;4;2;1;450;38000.0;0.0;0.0
+Casa;Pechincha;4;4;1;275;4500.0;0.0;2104.0
+Casa;Jacarepaguá;2;2;0;80;2000.0;0.0;0.0
+Flat;Ipanema;1;1;0;60;6500.0;0.0;0.0
+Apartamento;Méier;2;0;0;60;1200.0;0.0;13.0
+Casa;Engenho Novo;3;1;1;146;2200.0;0.0;103.0
+Apartamento;Campo Grande;2;2;0;48;700.0;0.0;0.0
+Casa;Laranjeiras;6;2;6;333;20000.0;0.0;697.0
+Apartamento;Ramos;2;0;0;54;900.0;0.0;0.0
+Casa de Condomínio;Catete;5;0;2;250;15000.0;0.0;0.0
+Apartamento;Parada de Lucas;2;0;0;78;790.0;0.0;0.0
+Casa;Gávea;3;2;3;450;25000.0;0.0;400.0
+Apartamento;Barra da Tijuca;4;3;2;245;6950.0;0.0;0.0
+Flat;Botafogo;2;1;0;75;5500.0;0.0;0.0
+Casa de Vila;Freguesia (Ilha do Governador);3;1;1;110;2300.0;0.0;130.0
+Apartamento;Centro;1;0;0;25;1100.0;0.0;0.0
+Apartamento;Realengo;2;0;0;75;750.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;2;1;280;9500.0;0.0;0.0
+Casa;Campo Grande;2;1;0;80;1000.0;0.0;0.0
+Apartamento;Ilha do Governador;2;1;0;120;1200.0;0.0;186.0
+Casa;Piedade;2;0;0;50;1200.0;0.0;0.0
+Casa;Curicica;3;1;2;15;7077.0;0.0;0.0
+Quitinete;Pechincha;1;0;0;30;500.0;0.0;0.0
+Apartamento;Urca;2;0;1;70;4000.0;0.0;0.0
+Apartamento;Barra da Tijuca;3;2;2;106;3500.0;0.0;300.0
+Casa de Condomínio;Barra da Tijuca;7;6;6;1350;30000.0;0.0;0.0
+Casa de Vila;Magalhães Bastos;1;0;0;20;380.0;0.0;0.0
+Apartamento;Centro;1;0;0;250;35000.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;35;2500.0;0.0;0.0
+Casa de Vila;Madureira;1;0;0;40;600.0;0.0;0.0
+Casa;Vila Isabel;2;0;0;40;1300.0;0.0;0.0
+Casa;Botafogo;4;5;0;600;22000.0;0.0;3142.0
+Apartamento;Leme;3;0;0;120;5500.0;0.0;0.0
+Casa;Praça da Bandeira;3;0;0;50;1800.0;0.0;24.0
+Apartamento;Anchieta;2;0;0;110;600.0;0.0;0.0
+Apartamento;Santíssimo;2;1;0;45;600.0;0.0;0.0
+Casa;Pechincha;3;1;3;77;2500.0;0.0;0.0
+Quitinete;Copacabana;1;0;0;35;1200.0;0.0;48.0
+Casa;Freguesia (Jacarepaguá);3;2;2;400;7800.0;0.0;300.0
+Apartamento;Ipanema;2;1;1;86;10000.0;0.0;0.0
+Casa;Maria da Graça;1;0;0;57;850.0;0.0;0.0
+Apartamento;Braz de Pina;2;0;0;60;800.0;0.0;0.0
+Casa;Santa Teresa;2;0;0;160;2800.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;35;3500.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;80;3900.0;0.0;0.0
+Casa;Jardim América;1;0;0;15;400.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;3;3;3;150;3000.0;0.0;0.0
+Casa;Campo Grande;2;1;2;74;1200.0;0.0;0.0
+Quitinete;Gardênia Azul;1;0;0;30;500.0;0.0;0.0
+Casa de Vila;Irajá;2;0;0;50;660.0;0.0;0.0
+Apartamento;Oswaldo Cruz;1;0;0;50;700.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;50;600.0;0.0;0.0
+Casa;Bonsucesso;2;0;0;56;1100.0;0.0;0.0
+Quitinete;Bonsucesso;1;0;0;40;600.0;0.0;12.0
+Apartamento;Campo Grande;2;1;0;50;1200.0;0.0;0.0
+Casa de Vila;Oswaldo Cruz;1;0;0;25;500.0;0.0;0.0
+Casa;Joá;6;4;6;550;25000.0;0.0;672.0
+Casa;Curicica;1;0;0;50;800.0;0.0;80.0
+Apartamento;Copacabana;1;0;1;60;3500.0;0.0;0.0
+Apartamento;Copacabana;1;0;1;100;3300.0;0.0;0.0
+Casa;Realengo;2;0;0;60;800.0;0.0;0.0
+Casa;Rio Comprido;3;4;0;330;5000.0;0.0;0.0
+Apartamento;Rocha Miranda;1;0;0;32;1000.0;0.0;0.0
+Casa;Braz de Pina;2;0;0;25;800.0;0.0;0.0
+Casa;Tijuca;3;5;1;260;6500.0;0.0;1031.0
+Casa de Condomínio;Irajá;1;0;0;35;750.0;0.0;0.0
+Casa de Condomínio;Campo Grande;2;1;2;85;1000.0;0.0;0.0
+Apartamento;Botafogo;2;1;1;71;5000.0;0.0;0.0
+Casa;Irajá;2;0;0;86;875.0;0.0;0.0
+Casa de Vila;Vila Isabel;1;0;0;48;1200.0;0.0;66.0
+Casa de Condomínio;Barra da Tijuca;5;4;5;700;35000.0;0.0;0.0
+Apartamento;Vicente de Carvalho;1;0;0;55;600.0;0.0;16.0
+Casa;Recreio dos Bandeirantes;3;4;1;400;8500.0;0.0;0.0
+Casa de Vila;Riachuelo;1;0;0;24;680.0;0.0;16.0
+Casa;Campo Grande;2;0;0;75;1400.0;0.0;0.0
+Apartamento;Flamengo;2;0;0;83;2500.0;0.0;0.0
+Casa;Vaz Lobo;2;0;0;55;600.0;0.0;0.0
+Casa;Campo Grande;2;1;0;80;1200.0;0.0;0.0
+Casa;Leblon;0;0;0;300;39000.0;0.0;2100.0
+Quitinete;Anil;1;0;0;30;450.0;0.0;0.0
+Casa;Cordovil;2;1;0;60;850.0;0.0;0.0
+Apartamento;Oswaldo Cruz;3;0;0;110;2000.0;0.0;0.0
+Apartamento;Higienópolis;2;0;0;89;1000.0;0.0;39.0
+Casa;Campo Grande;4;1;1;150;8000.0;0.0;0.0
+Apartamento;Ipanema;2;0;0;70;3800.0;0.0;0.0
+Apartamento;Ipanema;2;1;1;130;10000.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;55;800.0;0.0;0.0
+Apartamento;Rocha;2;1;0;68;1000.0;0.0;0.0
+Apartamento;Pedra de Guaratiba;1;0;0;35;450.0;0.0;0.0
+Quitinete;Copacabana;1;0;0;35;2000.0;0.0;0.0
+Casa de Vila;Irajá;1;0;0;60;800.0;0.0;0.0
+Apartamento;Vargem Grande;2;0;0;90;1500.0;0.0;0.0
+Apartamento;Del Castilho;1;0;0;50;1000.0;0.0;18.0
+Apartamento;Copacabana;1;0;0;50;2500.0;0.0;0.0
+Apartamento;Copacabana;3;0;0;100;4500.0;0.0;0.0
+Casa;Campo Grande;3;4;1;212;2500.0;0.0;600.0
+Apartamento;Leblon;3;1;1;130;7500.0;0.0;0.0
+Apartamento;Copacabana;3;1;0;135;2700.0;0.0;0.0
+Casa;Santíssimo;1;1;0;55;900.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;6;2;6;349;10000.0;0.0;494.0
+Casa;Campo Grande;2;1;0;160;2200.0;0.0;0.0
+Casa;Gávea;6;5;3;650;20000.0;0.0;19230.0
+Casa de Condomínio;Barra da Tijuca;5;10;5;2000;35009.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;0;1;300;7000.0;0.0;0.0
+Casa;Anil;3;4;1;275;4000.0;0.0;200.0
+Apartamento;Campinho;1;0;0;69;600.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;4;2;3;360;12000.0;0.0;0.0
+Casa;Urca;3;1;0;225;12000.0;0.0;385.0
+Casa;Bento Ribeiro;1;0;0;50;790.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;3;6;3;600;25000.0;0.0;0.0
+Casa;Curicica;2;0;0;80;1300.0;0.0;0.0
+Casa de Vila;Ramos;2;0;0;75;1500.0;0.0;0.0
+Apartamento;Água Santa;2;0;0;85;850.0;0.0;0.0
+Casa de Vila;Tijuca;3;1;0;140;3200.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;80;3800.0;0.0;0.0
+Apartamento;Copacabana;3;0;0;80;1200.0;0.0;0.0
+Casa;Praça Seca;4;1;1;128;1600.0;0.0;228.0
+Apartamento;Pechincha;2;0;0;80;1000.0;0.0;0.0
+Casa;Tijuca;2;1;0;96;1900.0;0.0;105.0
+Apartamento;Bonsucesso;2;1;0;50;1200.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;55;800.0;0.0;2.0
+Apartamento;Campo Grande;2;0;0;65;500.0;0.0;0.0
+Casa de Vila;Bento Ribeiro;1;1;0;35;500.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;40;2500.0;0.0;0.0
+Casa;Vargem Grande;3;2;1;100;2000.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;45;2400.0;0.0;0.0
+Casa;Gávea;4;1;2;350;8500.0;0.0;554.0
+Casa;Paciência;2;0;0;55;600.0;0.0;0.0
+Casa;Ribeira;3;0;0;107;1600.0;0.0;0.0
+Casa;Cosmos;2;1;0;80;1000.0;0.0;0.0
+Casa de Vila;Vila da Penha;1;0;0;40;900.0;0.0;0.0
+Casa de Vila;Irajá;2;0;0;60;1100.0;0.0;0.0
+Apartamento;Leblon;2;1;1;94;5000.0;0.0;0.0
+Casa;Barra da Tijuca;5;4;4;600;7000.0;0.0;1370.0
+Casa;Tijuca;4;1;0;230;5000.0;0.0;0.0
+Quitinete;Curicica;1;0;0;35;700.0;0.0;0.0
+Apartamento;Vila da Penha;3;0;0;52;900.0;0.0;0.0
+Apartamento;Vila Isabel;1;0;1;84;1700.0;0.0;135.0
+Casa de Vila;Guaratiba;1;0;0;24;400.0;0.0;0.0
+Quitinete;Glória;1;0;1;55;2200.0;0.0;0.0
+Casa;Ipanema;4;0;0;280;25000.0;0.0;0.0
+Apartamento;Vigário Geral;1;0;0;40;500.0;0.0;0.0
+Casa;Campo Grande;3;1;0;80;950.0;0.0;0.0
+Apartamento;Cachambi;1;0;0;50;900.0;0.0;0.0
+Casa;Campo Grande;3;1;3;287;2500.0;0.0;0.0
+Casa;Olaria;2;0;0;52;1300.0;0.0;0.0
+Apartamento;Flamengo;1;0;1;122;12000.0;0.0;0.0
+Casa;Engenho Novo;2;2;1;180;2200.0;0.0;680.0
+Casa;Vargem Pequena;8;4;6;380;17000.0;0.0;0.0
+Apartamento;Cavalcanti;3;0;0;50;800.0;0.0;19.0
+Apartamento;Itanhangá;1;0;0;30;700.0;0.0;0.0
+Casa de Vila;Rocha Miranda;2;0;0;60;860.0;0.0;23.0
+Flat;Ipanema;2;1;1;88;9500.0;0.0;0.0
+Casa;Campo Grande;1;0;0;50;550.0;0.0;0.0
+Apartamento;Olaria;1;0;0;49;1200.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;68;1200.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;4;3;1;800;7009.0;0.0;0.0
+Apartamento;Barra da Tijuca;1;1;0;50;6300.0;0.0;0.0
+Apartamento;Ramos;1;1;0;55;1000.0;0.0;0.0
+Apartamento;Vaz Lobo;1;0;0;60;800.0;0.0;0.0
+Casa;Itanhangá;10;0;6;800;8500.0;0.0;0.0
+Apartamento;Cachambi;2;1;1;65;1900.0;0.0;0.0
+Casa;Humaitá;3;0;1;300;11500.0;0.0;0.0
+Apartamento;Copacabana;4;0;1;50;4500.0;0.0;0.0
+Apartamento;Copacabana;7;0;7;600;18000.0;0.0;2800.0
+Casa de Vila;Freguesia (Jacarepaguá);1;0;0;30;500.0;0.0;0.0
+Casa;Bento Ribeiro;1;1;0;60;900.0;0.0;0.0
+Casa;Campo Grande;3;1;2;120;1400.0;0.0;0.0
+Flat;Barra da Tijuca;2;2;1;144;5572.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;2;3;1;110;3200.0;0.0;300.0
+Casa de Condomínio;Recreio dos Bandeirantes;5;3;4;280;10000.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;3;3;170;12000.0;0.0;0.0
+Casa;Campo Grande;3;2;1;277;2400.0;0.0;0.0
+Apartamento;Campo Grande;3;1;1;80;1500.0;0.0;0.0
+Quitinete;Botafogo;1;0;0;25;2000.0;0.0;0.0
+Casa;Campo Grande;2;0;0;56;850.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;45;950.0;0.0;2.0
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;360;15000.0;0.0;672.0
+Casa;Quintino Bocaiúva;1;0;0;55;800.0;0.0;0.0
+Quitinete;Copacabana;1;0;0;30;2500.0;0.0;0.0
+Casa;Gávea;5;1;1;330;8000.0;0.0;611.0
+Casa;Campo Grande;3;0;1;90;2200.0;0.0;0.0
+Casa;Freguesia (Jacarepaguá);5;3;1;318;5000.0;0.0;335.0
+Apartamento;Copacabana;2;0;0;50;2400.0;0.0;0.0
+Casa;Freguesia (Jacarepaguá);4;1;2;416;13000.0;0.0;0.0
+Casa;Campo Grande;2;0;0;60;700.0;0.0;0.0
+Casa de Vila;Engenho de Dentro;3;1;1;105;1500.0;0.0;0.0
+Apartamento;Ipanema;3;0;1;90;5000.0;0.0;0.0
+Apartamento;Copacabana;1;1;1;46;2800.0;0.0;0.0
+Apartamento;Cachambi;2;1;1;65;1900.0;0.0;0.0
+Apartamento;Santa Teresa;2;0;0;106;2500.0;0.0;35.0
+Casa;Campinho;1;1;0;60;850.0;0.0;0.0
+Casa;Pedra de Guaratiba;4;1;0;100;1300.0;0.0;0.0
+Casa de Vila;Rocha Miranda;2;0;0;35;750.0;0.0;0.0
+Casa;Tijuca;6;8;2;215;6000.0;0.0;3500.0
+Casa;Jardim Botânico;5;4;4;800;35000.0;0.0;1794.0
+Casa;Campo Grande;3;4;1;250;2500.0;0.0;600.0
+Casa;Botafogo;7;1;3;250;12000.0;0.0;1881.0
+Apartamento;Irajá;1;0;0;40;700.0;0.0;0.0
+Casa;Vicente de Carvalho;2;1;0;55;1000.0;0.0;0.0
+Casa;Bangu;2;0;0;75;850.0;0.0;0.0
+Casa;Cosme Velho;3;3;1;437;6000.0;0.0;1052.0
+Casa de Vila;Engenho de Dentro;3;0;0;100;1800.0;0.0;0.0
+Casa;Gávea;4;4;0;450;14900.0;0.0;500.0
+Casa;Vila Valqueire;2;0;0;60;1000.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;2;1;189;8000.0;0.0;0.0
+Apartamento;Piedade;3;1;1;90;1200.0;0.0;124.0
+Casa;Taquara;2;0;0;60;1000.0;0.0;14.0
+Apartamento;Jacarepaguá;1;0;1;30;2000.0;0.0;0.0
+Casa;Campo Grande;2;4;1;120;2500.0;0.0;0.0
+Casa de Condomínio;São Conrado;4;4;2;500;12000.0;0.0;879.0
+Casa;Ilha do Governador;3;1;0;70;1950.0;0.0;0.0
+Flat;Centro;1;0;1;32;2950.0;0.0;0.0
+Apartamento;Rocha Miranda;1;0;0;44;750.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;40;490.0;0.0;0.0
+Apartamento;Senador Vasconcelos;2;1;1;60;1000.0;0.0;0.0
+Casa;Urca;0;1;0;150;6500.0;0.0;1815.0
+Apartamento;Campo Grande;2;1;0;48;750.0;0.0;0.0
+Apartamento;Engenho Novo;2;0;0;78;1300.0;0.0;16.0
+Apartamento;Copacabana;1;0;0;21;2000.0;0.0;0.0
+Casa;Pavuna;2;1;0;70;800.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;150;6000.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;35;3000.0;0.0;0.0
+Apartamento;Botafogo;1;0;1;100;3700.0;0.0;0.0
+Apartamento;Bonsucesso;2;1;0;90;1300.0;0.0;0.0
+Apartamento;Pavuna;1;1;0;50;600.0;0.0;0.0
+Casa;Bonsucesso;1;0;0;30;650.0;0.0;0.0
+Casa;Laranjeiras;3;1;1;300;7000.0;0.0;572.0
+Apartamento;Campo Grande;2;1;1;51;1350.0;0.0;0.0
+Apartamento;Maria da Graça;3;0;0;98;1100.0;0.0;0.0
+Apartamento;Higienópolis;2;0;0;80;1050.0;0.0;0.0
+Casa;Vila da Penha;2;0;0;85;1300.0;0.0;0.0
+Apartamento;Pedra de Guaratiba;2;1;0;69;650.0;0.0;0.0
+Apartamento;Bento Ribeiro;1;1;0;51;600.0;0.0;0.0
+Casa;Méier;2;0;0;55;1000.0;0.0;13.0
+Casa;Campo Grande;1;1;0;60;800.0;0.0;0.0
+Casa;Campo Grande;3;3;0;80;1500.0;0.0;0.0
+Apartamento;Ipanema;3;1;1;150;5800.0;0.0;0.0
+Flat;Leblon;1;0;0;53;7500.0;0.0;0.0
+Casa;Braz de Pina;1;0;0;35;750.0;0.0;0.0
+Apartamento;Botafogo;1;1;1;45;3800.0;0.0;0.0
+Apartamento;Barra da Tijuca;2;1;2;205;5700.0;0.0;0.0
+Apartamento;Copacabana;4;0;1;60;3800.0;0.0;0.0
+Casa de Condomínio;Jacarepaguá;2;1;0;130;2500.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;35;3000.0;0.0;0.0
+Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;1749.0
+Apartamento;Ramos;4;0;0;75;3500.0;0.0;47.0
+Casa;Jardim Botânico;4;4;4;450;20000.0;0.0;0.0
+Casa;Campo Grande;2;1;0;75;850.0;0.0;0.0
+Casa;Humaitá;4;2;0;252;13500.0;0.0;300.0
+Casa;Botafogo;7;1;3;250;12000.0;0.0;0.0
+Casa de Vila;Colégio;1;0;0;49;780.0;0.0;0.0
+Apartamento;Itanhangá;1;1;0;45;1000.0;0.0;0.0
+Casa;Maria da Graça;3;0;0;50;1300.0;0.0;0.0
+Casa;Freguesia (Jacarepaguá);3;2;0;140;6600.0;0.0;400.0
+Casa;Campo Grande;2;0;0;60;900.0;0.0;0.0
+Quitinete;Vila da Penha;1;0;0;25;600.0;0.0;0.0
+Casa;Quintino Bocaiúva;4;8;0;200;2500.0;0.0;0.0
+Casa;Campo Grande;3;2;3;230;2000.0;0.0;0.0
+Casa;Pavuna;3;2;0;90;900.0;0.0;0.0
+Casa;Jardim Botânico;5;4;4;845;35000.0;0.0;1642.0
+Casa;Paciência;1;0;0;40;650.0;0.0;0.0
+Casa;Vaz Lobo;3;1;0;80;950.0;0.0;36.0
+Apartamento;Campo Grande;3;1;1;90;850.0;0.0;0.0
+Apartamento;São Conrado;2;1;1;100;3900.0;0.0;115.0
+Flat;Barra da Tijuca;1;1;0;45;3800.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;50;700.0;0.0;0.0
+Apartamento;Barra da Tijuca;3;1;1;95;2800.0;0.0;0.0
+Quitinete;Taquara;1;0;0;25;500.0;0.0;0.0
+Casa de Condomínio;Itanhangá;4;4;2;600;12000.0;0.0;0.0
+Apartamento;Centro;2;0;0;100;2000.0;0.0;0.0
+Casa;Pedra de Guaratiba;2;1;1;100;1200.0;0.0;0.0
+Apartamento;Anchieta;1;0;0;60;690.0;0.0;0.0
+Apartamento;Santa Teresa;2;0;0;56;1800.0;0.0;14.0
+Casa;Vaz Lobo;3;2;0;100;950.0;0.0;0.0
+Casa;Curicica;2;0;0;60;1000.0;0.0;98.0
+Apartamento;Freguesia (Jacarepaguá);4;3;1;300;4200.0;0.0;0.0
+Apartamento;Tijuca;1;1;0;69;3000.0;0.0;0.0
+Casa;Campo Grande;3;2;1;240;1700.0;0.0;136.0
+Casa;Cascadura;3;0;0;60;1200.0;0.0;0.0
+Casa;Jardim Guanabara;4;10;2;447;6500.0;0.0;2937.0
+Casa;Campo Grande;1;0;0;30;430.0;0.0;0.0
+Flat;Ipanema;2;1;2;85;8500.0;0.0;0.0
+Casa;Jardim Botânico;4;3;4;300;20000.0;0.0;1254.0
+Apartamento;Campo Grande;1;0;0;40;480.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;60;800.0;0.0;0.0
+Casa;Vila da Penha;3;1;1;80;1510.0;0.0;0.0
+Casa de Vila;São Cristóvão;3;1;1;65;1700.0;0.0;15.0
+Casa;Anchieta;2;1;0;80;700.0;0.0;0.0
+Casa de Condomínio;Glória;4;3;2;600;20000.0;0.0;979.0
+Apartamento;Copacabana;1;0;0;40;4500.0;0.0;0.0
+Casa;Santa Teresa;2;0;0;100;1650.0;0.0;35.0
+Casa;Vila Valqueire;2;2;0;80;1100.0;0.0;13.0
+Casa;Campo Grande;2;1;0;70;1200.0;0.0;0.0
+Casa de Vila;Engenho de Dentro;1;0;0;32;700.0;0.0;17.0
+Casa;Jardim Botânico;5;4;4;845;35000.0;0.0;16422.0
+Casa;Recreio dos Bandeirantes;4;3;1;633;6000.0;0.0;2700.0
+Apartamento;Campo Grande;1;0;0;50;550.0;0.0;0.0
+Casa;Rio Comprido;2;0;0;250;5000.0;0.0;3800.0
+Casa;Vila Kosmos;2;1;0;113;1800.0;0.0;0.0
+Casa;Santa Teresa;3;1;1;133;2500.0;0.0;0.0
+Casa de Vila;Bento Ribeiro;1;0;0;40;600.0;0.0;0.0
+Apartamento;Senador Vasconcelos;1;1;0;40;690.0;0.0;0.0
+Casa;Vila da Penha;4;1;1;270;3500.0;0.0;0.0
+Flat;Copacabana;1;1;1;60;4000.0;0.0;0.0
+Casa;Botafogo;2;1;0;80;3300.0;0.0;600.0
+Apartamento;Campo Grande;2;1;0;54;1000.0;0.0;0.0
+Apartamento;Vila da Penha;3;0;1;95;1800.0;0.0;0.0
+Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;0.0
+Apartamento;Todos os Santos;1;0;0;40;900.0;0.0;34.0
+Apartamento;Copacabana;1;0;0;80;3500.0;0.0;0.0
+Apartamento;Irajá;2;0;0;40;1150.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;4;2;4;300;9000.0;0.0;0.0
+Flat;Ipanema;1;0;0;46;6000.0;0.0;0.0
+Casa de Condomínio;Realengo;1;0;0;60;700.0;0.0;0.0
+Flat;Barra da Tijuca;1;1;1;75;2200.0;0.0;700.0
+Apartamento;Bangu;2;1;0;65;900.0;0.0;100.0
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;168;4500.0;0.0;0.0
+Apartamento;Jardim Botânico;3;0;0;115;4500.0;0.0;230.0
+Casa;Tauá;2;0;0;160;2000.0;0.0;1200.0
+Casa;Santa Teresa;6;2;0;381;9000.0;0.0;186.0
+Apartamento;Ilha do Governador;1;0;0;71;1000.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;3;2;1;140;3500.0;0.0;0.0
+Apartamento;Barra da Tijuca;2;1;2;100;14000.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;47;800.0;0.0;0.0
+Casa de Vila;Cascadura;1;0;0;36;700.0;0.0;0.0
+Casa de Vila;Cascadura;3;0;0;90;1200.0;0.0;0.0
+Casa;Cordovil;1;0;0;65;650.0;0.0;0.0
+Apartamento;Quintino Bocaiúva;2;0;0;90;1200.0;0.0;0.0
+Casa;Barra da Tijuca;6;6;6;610;20000.0;0.0;400.0
+Casa;Campo Grande;4;1;4;386;2400.0;0.0;0.0
+Apartamento;Bangu;2;0;0;60;800.0;0.0;0.0
+Apartamento;Tijuca;3;0;0;147;1900.0;0.0;172.0
+Casa;Pavuna;2;0;0;70;900.0;0.0;0.0
+Casa;Curicica;1;0;0;160;5500.0;0.0;0.0
+Casa;Pitangueiras;3;1;2;360;3200.0;0.0;0.0
+Apartamento;Copacabana;1;0;1;38;4000.0;0.0;0.0
+Casa;Campo Grande;2;1;0;60;800.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;40;2700.0;0.0;0.0
+Flat;Ipanema;1;0;0;46;6000.0;0.0;0.0
+Apartamento;Ipanema;2;1;1;86;10000.0;0.0;0.0
+Casa;Tijuca;5;1;0;139;3500.0;0.0;545.0
+Casa de Condomínio;Barra da Tijuca;4;4;4;700;20000.0;0.0;0.0
+Casa de Condomínio;Guaratiba;2;1;0;50;850.0;0.0;0.0
+Casa de Vila;Tijuca;3;0;0;87;2600.0;0.0;0.0
+Casa;Campo Grande;2;0;0;55;1000.0;0.0;0.0
+Apartamento;Taquara;3;0;0;90;2000.0;0.0;14.0
+Casa;Parque Anchieta;2;1;0;70;1250.0;0.0;0.0
+Casa;Campo Grande;4;3;0;120;1700.0;0.0;0.0
+Apartamento;Taquara;2;0;0;85;1300.0;0.0;35.0
+Casa de Vila;Quintino Bocaiúva;1;0;0;40;550.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;5;3;2;800;7009.0;0.0;0.0
+Apartamento;Laranjeiras;3;1;0;85;2900.0;0.0;0.0
+Apartamento;Irajá;2;1;0;60;1200.0;0.0;0.0
+Casa;Campo Grande;2;0;0;60;950.0;0.0;0.0
+Apartamento;Ipanema;1;0;0;42;3500.0;0.0;0.0
+Casa de Vila;Honório Gurgel;1;0;0;34;800.0;0.0;0.0
+Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;0.0
+Casa;Vila da Penha;2;0;0;50;700.0;0.0;0.0
+Apartamento;Encantado;2;1;0;70;1100.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;50;850.0;0.0;0.0
+Casa de Vila;Tijuca;2;0;0;95;2000.0;0.0;100.0
+Apartamento;Copacabana;1;0;0;55;2700.0;0.0;0.0
+Casa;Vigário Geral;2;0;1;176;1300.0;0.0;0.0
+Casa;Campo Grande;2;2;1;80;1700.0;0.0;2.0
+Casa;Recreio dos Bandeirantes;4;5;3;600;12000.0;0.0;600.0
+Casa de Condomínio;Campo Grande;2;1;0;65;800.0;0.0;0.0
+Casa de Vila;Realengo;1;0;0;70;750.0;0.0;0.0
+Casa;Urca;4;2;4;330;21000.0;0.0;4200.0
+Apartamento;Barra da Tijuca;1;1;0;50;6300.0;0.0;0.0
+Casa;Andaraí;3;0;0;125;2900.0;0.0;96.0
+Apartamento;Copacabana;1;0;0;35;2000.0;0.0;0.0
+Casa;Rio Comprido;8;0;0;412;4000.0;0.0;958.0
+Apartamento;Ramos;2;0;0;76;1200.0;0.0;0.0
+Casa;Lagoa;6;2;0;750;18000.0;0.0;1800.0
+Casa de Condomínio;Joá;5;5;5;600;30000.0;0.0;0.0
+Casa;Rocha;2;0;0;50;800.0;0.0;0.0
+Casa;Campo Grande;3;0;0;70;950.0;0.0;45.0
+Apartamento;Leblon;3;1;1;125;15000.0;0.0;0.0
+Apartamento;Santo Cristo;2;0;0;70;1000.0;0.0;0.0
+Casa;Bonsucesso;1;0;0;50;600.0;0.0;0.0
+Casa;Abolição;2;3;0;80;2300.0;0.0;192.0
+Casa de Condomínio;Barra da Tijuca;5;6;3;300;10000.0;0.0;0.0
+Casa de Vila;Botafogo;2;0;0;68;3500.0;0.0;0.0
+Casa;Jardim Guanabara;3;4;1;200;3800.0;0.0;400.0
+Apartamento;Copacabana;2;0;0;50;3000.0;0.0;0.0
+Apartamento;Irajá;2;1;0;80;1700.0;0.0;100.0
+Apartamento;Copacabana;2;0;0;35;2500.0;0.0;0.0
+Casa de Condomínio;Realengo;2;0;0;90;900.0;0.0;0.0
+Quitinete;São Cristóvão;1;0;0;40;850.0;0.0;0.0
+Casa;Vila da Penha;2;0;0;36;700.0;0.0;0.0
+Apartamento;Copacabana;4;2;2;345;22000.0;0.0;0.0
+Casa;Jardim Botânico;4;4;4;451;20000.0;0.0;0.0
+Apartamento;Copacabana;2;2;2;88;5500.0;0.0;0.0
+Flat;Barra da Tijuca;1;0;1;25;1600.0;0.0;0.0
+Casa de Vila;Taquara;1;0;0;60;1000.0;0.0;0.0
+Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;1749.0
+Casa de Condomínio;Recreio dos Bandeirantes;3;1;1;240;3000.0;0.0;0.0
+Apartamento;Copacabana;3;0;1;150;7500.0;0.0;0.0
+Apartamento;Ipanema;2;1;1;75;5000.0;0.0;0.0
+Casa;Cosmos;2;3;0;67;1000.0;0.0;0.0
+Apartamento;Ipanema;2;1;2;120;8500.0;0.0;0.0
+Casa;Moneró;3;3;1;220;3400.0;0.0;4500.0
+Apartamento;Copacabana;3;0;0;120;2700.0;0.0;0.0
+Apartamento;Copacabana;1;1;0;56;5000.0;0.0;0.0
+Casa;Freguesia (Jacarepaguá);4;10;1;400;4900.0;0.0;0.0
+Flat;São Conrado;1;1;1;25;2000.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;2;2;178;7509.0;0.0;0.0
+Casa;Grajaú;1;0;0;30;1000.0;0.0;0.0
+Casa;Praça Seca;4;1;1;252;2300.0;0.0;201.0
+Apartamento;Méier;1;0;0;45;1000.0;0.0;0.0
+Quitinete;Copacabana;1;0;0;20;1000.0;0.0;0.0
+Apartamento;Praça Seca;2;0;0;50;800.0;0.0;16.0
+Casa;Cosmos;3;0;0;60;800.0;0.0;0.0
+Apartamento;Barra da Tijuca;3;0;3;120;6000.0;0.0;0.0
+Apartamento;Inhaúma;1;0;0;45;750.0;0.0;0.0
+Casa;Água Santa;1;1;0;40;1200.0;0.0;14.0
+Casa;Santa Teresa;5;2;3;237;7000.0;0.0;120.0
+Casa;Jardim Guanabara;3;6;1;325;3700.0;0.0;450.0
+Casa;Barra da Tijuca;4;0;3;170;4500.0;0.0;0.0
+Apartamento;Pedra de Guaratiba;1;0;0;42;460.0;0.0;0.0
+Apartamento;Copacabana;2;0;1;70;3500.0;0.0;0.0
+Apartamento;Madureira;2;1;0;69;750.0;0.0;0.0
+Apartamento;Méier;2;0;0;69;1300.0;0.0;13.0
+Apartamento;Campo Grande;2;1;0;60;1000.0;0.0;0.0
+Casa de Vila;Ramos;2;0;0;70;1000.0;0.0;0.0
+Casa;Jardim Botânico;4;4;4;845;35000.0;0.0;1794.0
+Apartamento;Lagoa;4;4;4;400;18000.0;0.0;0.0
+Casa;Campo Grande;3;1;1;122;1100.0;0.0;153.0
+Apartamento;Praça da Bandeira;3;0;0;120;1700.0;0.0;0.0
+Casa de Vila;Catumbi;1;0;0;45;900.0;0.0;6.0
+Apartamento;Vila Isabel;2;0;0;54;1400.0;0.0;20.0
+Casa;Encantado;4;2;1;180;2200.0;0.0;248.0
+Casa;Abolição;2;0;0;360;2000.0;0.0;0.0
+Apartamento;Vila da Penha;1;0;0;27;750.0;0.0;0.0
+Casa;Tijuca;7;4;0;400;10000.0;0.0;283.0
+Apartamento;Taquara;4;3;1;190;1200.0;0.0;0.0
+Casa;Campo Grande;2;1;2;74;1200.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;60;600.0;0.0;0.0
+Apartamento;Vista Alegre;1;0;0;35;750.0;0.0;0.0
+Casa;Santa Teresa;1;0;0;60;1300.0;0.0;85.0
+Apartamento;Flamengo;4;0;1;300;7000.0;0.0;0.0
+Casa de Vila;Santa Teresa;2;0;0;46;2000.0;0.0;0.0
+Apartamento;Leblon;4;3;1;250;18000.0;0.0;0.0
+Casa;Rio Comprido;6;1;0;380;2000.0;0.0;320.0
+Apartamento;Bangu;1;0;0;50;750.0;0.0;100.0
+Apartamento;Taquara;2;1;0;70;1000.0;0.0;13.0
+Apartamento;Jardim América;1;0;0;60;600.0;0.0;0.0
+Casa;Santa Teresa;3;3;1;400;6000.0;0.0;0.0
+Casa;Campo Grande;4;0;1;366;1890.0;0.0;208.0
+Casa de Vila;Cosme Velho;5;3;0;900;15000.0;0.0;5000.0
+Casa;Urca;4;1;2;320;20000.0;0.0;423.0
+Apartamento;Barra da Tijuca;2;1;1;110;4500.0;0.0;0.0
+Casa;Vila Valqueire;2;2;0;155;1200.0;0.0;0.0
+Apartamento;Leme;2;1;1;75;6000.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;5;8;5;1000;40000.0;0.0;0.0
+Casa de Condomínio;Pechincha;3;1;2;80;1900.0;0.0;0.0
+Casa;Santa Teresa;5;4;0;380;8000.0;0.0;269.0
+Apartamento;Campo Grande;2;0;0;74;800.0;0.0;0.0
+Casa;Irajá;1;0;0;35;700.0;0.0;0.0
+Casa de Condomínio;Pechincha;3;1;2;155;2500.0;0.0;0.0
+Apartamento;Marechal Hermes;1;0;0;70;520.0;0.0;25.0
+Flat;Barra da Tijuca;1;1;1;40;3000.0;0.0;0.0
+Apartamento;Botafogo;2;1;1;50;5400.0;0.0;0.0
+Apartamento;Taquara;1;0;0;40;800.0;0.0;13.0
+Apartamento;Recreio dos Bandeirantes;2;2;1;79;2800.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;40;6000.0;0.0;0.0
+Casa;Anil;7;2;1;268;3300.0;0.0;430.0
+Casa;Ramos;1;0;0;45;850.0;0.0;0.0
+Casa;Campo Grande;4;0;0;159;1800.0;0.0;0.0
+Casa de Vila;Riachuelo;2;0;0;41;1200.0;0.0;40.0
+Apartamento;Botafogo;1;0;0;25;1800.0;0.0;0.0
+Casa de Vila;Cascadura;1;0;0;40;850.0;0.0;0.0
+Casa;Campo Grande;3;1;3;114;1500.0;0.0;0.0
+Casa;Campo Grande;4;0;2;324;3000.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;3;1;1;80;2000.0;0.0;0.0
+Casa;Itanhangá;5;3;5;400;12000.0;0.0;2200.0
+Casa;Freguesia (Jacarepaguá);2;0;0;150;3300.0;0.0;860.0
+Apartamento;Campo Grande;2;1;0;68;1300.0;0.0;0.0
+Apartamento;Grumari;2;1;1;65;1900.0;0.0;0.0
+Apartamento;Copacabana;3;1;1;120;4500.0;0.0;0.0
+Casa de Condomínio;Madureira;2;0;0;70;900.0;0.0;68.0
+Casa;Jardim Botânico;5;4;4;845;35000.0;0.0;0.0
+Casa;Braz de Pina;4;1;0;99;1800.0;0.0;0.0
+Apartamento;Ricardo de Albuquerque;1;0;0;25;350.0;0.0;0.0
+Apartamento;Ramos;2;0;0;75;800.0;0.0;0.0
+Apartamento;Santíssimo;2;1;0;45;600.0;0.0;0.0
+Apartamento;Leblon;2;1;1;90;7950.0;0.0;0.0
+Casa;Vila da Penha;2;0;0;115;1200.0;0.0;0.0
+Casa;Praça Seca;2;0;0;60;850.0;0.0;13.0
+Casa;Madureira;1;0;0;30;1100.0;0.0;0.0
+Casa;Campo Grande;2;1;0;91;1200.0;0.0;0.0
+Apartamento;Península;4;3;4;403;16000.0;0.0;0.0
+Apartamento;Cosmos;2;0;0;50;800.0;0.0;0.0
+Casa;Barra da Tijuca;2;0;2;74;1850.0;0.0;162.0
+Casa;Vigário Geral;1;0;0;40;550.0;0.0;0.0
+Casa;Oswaldo Cruz;1;1;0;60;700.0;0.0;0.0
+Apartamento;Copacabana;2;1;1;100;3990.0;0.0;0.0
+Casa;Encantado;1;0;0;40;1000.0;0.0;17.0
+Quitinete;Tijuca;1;0;0;30;990.0;0.0;0.0
+Casa;Anchieta;2;2;0;70;950.0;0.0;0.0
+Quitinete;Gardênia Azul;1;0;0;18;485.0;0.0;0.0
+Casa;Campo Grande;4;1;3;100;1600.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;1;0;0;30;2000.0;0.0;0.0
+Quitinete;Curicica;1;0;0;45;900.0;0.0;0.0
+Apartamento;Laranjeiras;6;1;0;510;13000.0;0.0;670.0
+Casa;Vila Valqueire;3;0;1;128;1500.0;0.0;45.0
+Apartamento;Irajá;2;0;0;50;850.0;0.0;0.0
+Casa;Bangu;3;2;0;100;1450.0;0.0;0.0
+Casa de Vila;Ramos;1;0;0;40;600.0;0.0;0.0
+Apartamento;Barra da Tijuca;2;1;1;90;2490.0;0.0;0.0
+Casa;Campo Grande;2;1;0;70;650.0;0.0;0.0
+Casa;Vila Kosmos;1;0;0;60;1000.0;0.0;0.0
+Casa;Jardim América;2;1;0;52;850.0;0.0;0.0
+Casa de Condomínio;Campo Grande;2;1;0;60;710.0;0.0;0.0
+Casa;Jardim Botânico;4;1;2;500;15000.0;0.0;500.0
+Casa;Barra da Tijuca;5;6;0;400;20000.0;0.0;590.0
+Casa;Campo Grande;2;0;0;60;700.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;3;3;1;300;5500.0;0.0;0.0
+Apartamento;Penha;2;1;1;70;900.0;0.0;0.0
+Apartamento;Vila Isabel;1;0;0;61;1300.0;0.0;20.0
+Flat;Leme;2;0;2;75;5000.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;0;4;280;10000.0;0.0;0.0
+Casa de Vila;Campo Grande;1;0;0;70;750.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;45;800.0;0.0;0.0
+Casa de Condomínio;Guaratiba;2;2;2;79;2100.0;0.0;0.0
+Apartamento;Guadalupe;1;0;0;30;400.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;60;1000.0;0.0;0.0
+Casa;Grajaú;4;5;1;270;4800.0;0.0;2300.0
+Casa;Vila da Penha;3;1;2;93;2000.0;0.0;0.0
+Apartamento;Campo Grande;2;0;2;60;1000.0;0.0;0.0
+Casa;Curicica;3;3;1;308;3500.0;0.0;2435.0
+Apartamento;Engenho de Dentro;2;0;0;50;1000.0;0.0;36.0
+Casa de Vila;Realengo;2;0;0;70;1200.0;0.0;0.0
+Casa de Vila;Cavalcanti;1;0;0;45;600.0;0.0;30.0
+Casa;Encantado;2;1;0;72;1400.0;0.0;34.0
+Casa de Condomínio;Barra da Tijuca;1;0;1;40;1750.0;0.0;0.0
+Apartamento;Magalhães Bastos;2;0;1;40;900.0;0.0;60.0
+Quitinete;Braz de Pina;1;0;0;37;600.0;0.0;0.0
+Casa;Joá;5;2;4;595;10000.0;0.0;0.0
+Apartamento;Ipanema;1;1;1;65;4500.0;0.0;0.0
+Apartamento;Campo Grande;2;1;1;45;850.0;0.0;0.0
+Casa;Marechal Hermes;1;0;0;45;700.0;0.0;0.0
+Apartamento;Vila da Penha;1;0;0;30;700.0;0.0;0.0
+Casa de Vila;Ramos;1;0;0;35;700.0;0.0;0.0
+Casa;Vila Isabel;2;0;0;70;2000.0;0.0;0.0
+Casa;Campo Grande;2;1;0;90;1200.0;0.0;0.0
+Casa de Condomínio;Praça Seca;1;1;0;50;780.0;0.0;0.0
+Apartamento;Barra da Tijuca;3;2;1;130;5500.0;0.0;0.0
+Casa;Jardim Botânico;4;4;4;845;35000.0;0.0;0.0
+Casa de Vila;Tijuca;2;0;0;70;1500.0;0.0;0.0
+Casa;Bento Ribeiro;3;3;0;70;2000.0;0.0;0.0
+Casa;Méier;1;0;0;50;900.0;0.0;14.0
+Apartamento;Guadalupe;2;0;0;57;850.0;0.0;0.0
+Casa;Campo Grande;1;0;0;70;700.0;0.0;0.0
+Apartamento;Jardim Guanabara;1;1;0;50;1200.0;0.0;0.0
+Casa;Olaria;1;0;1;11;800.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;4;2;3;600;15000.0;0.0;600.0
+Quitinete;Higienópolis;1;0;0;96;700.0;0.0;0.0
+Apartamento;Praça Seca;3;0;0;80;1300.0;0.0;23.0
+Casa;Laranjeiras;6;3;1;450;11000.0;0.0;0.0
+Casa de Vila;Colégio;2;1;0;50;980.0;0.0;0.0
+Casa;Jardim Botânico;4;1;4;387;25000.0;0.0;5000.0
+Casa;Méier;6;1;0;347;9000.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;50;1000.0;0.0;0.0
+Apartamento;Anil;2;0;0;42;850.0;0.0;0.0
+Casa;Gávea;4;5;3;822;25000.0;0.0;15400.0
+Quitinete;Irajá;1;0;0;40;700.0;0.0;0.0
+Casa;Urca;5;2;2;350;19000.0;0.0;0.0
+Casa;Realengo;2;0;0;80;800.0;0.0;26.0
+Apartamento;Flamengo;2;0;0;100;3800.0;0.0;0.0
+Casa de Vila;Pechincha;3;2;1;155;2500.0;0.0;0.0
+Casa;Oswaldo Cruz;2;0;0;89;1500.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;70;800.0;0.0;0.0
+Studio;Rio Comprido;0;0;0;250;5000.0;0.0;345.0
+Casa;Campo Grande;4;1;2;235;2500.0;0.0;0.0
+Casa;Campo Grande;2;1;1;120;1500.0;0.0;0.0
+Apartamento;Pavuna;2;0;0;60;750.0;0.0;0.0
+Apartamento;Flamengo;5;3;3;470;9000.0;0.0;1269.0
+Casa de Vila;Padre Miguel;1;0;0;33;600.0;0.0;60.0
+Apartamento;Campo Grande;1;0;0;65;700.0;0.0;0.0
+Casa de Vila;Méier;2;0;0;71;2000.0;0.0;36.0
+Casa;Jardim Botânico;5;4;5;1400;20000.0;0.0;1912.0
+Casa de Vila;Campo Grande;1;0;0;40;500.0;0.0;0.0
+Casa;Honório Gurgel;1;0;0;40;500.0;0.0;0.0
+Casa de Vila;Olaria;1;0;0;45;700.0;0.0;0.0
+Casa;Jardim Botânico;4;4;4;450;25000.0;0.0;1750.0
+Casa de Vila;Cachambi;2;0;0;100;1600.0;0.0;0.0
+Casa;Campo Grande;1;2;1;160;2300.0;0.0;0.0
+Casa;Vila da Penha;1;0;0;50;900.0;0.0;0.0
+Casa;Tijuca;3;1;0;198;2000.0;0.0;0.0
+Casa;Pilares;1;0;0;50;900.0;0.0;0.0
+Casa;Grajaú;6;4;4;90;60000.0;0.0;0.0
+Apartamento;Braz de Pina;3;1;0;60;1200.0;0.0;0.0
+Apartamento;Botafogo;1;0;0;28;2400.0;0.0;0.0
+Casa;Humaitá;4;0;0;300;7500.0;0.0;2100.0
+Casa;Recreio dos Bandeirantes;4;5;3;386;15000.0;0.0;610.0
+Casa;Abolição;2;1;0;70;1180.0;0.0;151.0
+Casa de Vila;Vila Militar;1;0;0;30;500.0;0.0;0.0
+Casa;Pedra de Guaratiba;1;2;0;70;660.0;0.0;0.0
+Apartamento;Jacarepaguá;1;1;1;38;2500.0;0.0;0.0
+Casa de Condomínio;Campo Grande;3;2;2;192;1400.0;0.0;0.0
+Apartamento;Botafogo;3;0;0;75;2300.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;2;1;1;74;1600.0;0.0;0.0
+Casa;Santa Teresa;2;0;1;80;1500.0;0.0;0.0
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;0;400;9000.0;0.0;514.0
+Casa;Grajaú;3;1;0;120;2900.0;0.0;150.0
+Apartamento;Ipanema;2;0;1;90;7000.0;0.0;0.0
+Casa;Irajá;4;2;4;176;4500.0;0.0;0.0
+Casa;Campo Grande;3;1;2;200;2500.0;0.0;0.0
+Quitinete;Senador Vasconcelos;1;0;0;40;550.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;50;1100.0;0.0;2.0
+Apartamento;Bonsucesso;2;0;0;61;1100.0;0.0;0.0
+Apartamento;Madureira;2;0;0;75;1050.0;0.0;0.0
+Casa de Condomínio;Vargem Grande;3;2;1;160;3900.0;0.0;0.0
+Casa;Jardim América;1;0;0;38;550.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;4;2;2;473;3200.0;0.0;928.0
+Casa;Vila Valqueire;1;0;0;60;900.0;0.0;0.0
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;168;4500.0;0.0;0.0
+Casa;Bento Ribeiro;1;1;0;50;1100.0;0.0;0.0
+Casa de Vila;Méier;3;1;0;82;2300.0;0.0;13.0
+Apartamento;Pedra de Guaratiba;1;0;0;40;500.0;0.0;0.0
+Casa;Gávea;3;6;2;363;15000.0;0.0;704.0
+Apartamento;Barra da Tijuca;2;0;2;80;4500.0;0.0;0.0
+Casa;Urca;4;1;1;160;12000.0;0.0;0.0
+Casa;Campo Grande;2;0;0;45;1000.0;0.0;0.0
+Apartamento;Del Castilho;1;0;0;55;800.0;0.0;0.0
+Casa;Barra da Tijuca;5;6;4;2000;49991.0;0.0;0.0
+Casa;Gávea;4;4;0;450;14000.0;0.0;7200.0
+Casa;Madureira;2;0;0;32;1300.0;0.0;0.0
+Apartamento;Higienópolis;1;0;0;50;650.0;0.0;0.0
+Apartamento;Copacabana;4;0;1;180;8000.0;0.0;0.0
+Apartamento;Barra da Tijuca;1;0;1;24;3300.0;0.0;0.0
+Apartamento;Penha Circular;3;1;0;60;1100.0;0.0;42.0
+Casa de Condomínio;Urca;5;3;4;346;20000.0;0.0;0.0
+Casa de Condomínio;Méier;3;1;1;80;1900.0;0.0;0.0
+Apartamento;Quintino Bocaiúva;2;0;0;40;800.0;0.0;0.0
+Casa;Campo Grande;3;0;1;90;1150.0;0.0;0.0
+Flat;Copacabana;1;1;1;50;3900.0;0.0;0.0
+Apartamento;Copacabana;2;1;2;300;12000.0;0.0;0.0
+Casa;Itanhangá;4;2;1;450;8000.0;0.0;937.0
+Casa de Vila;Vila Isabel;2;0;0;45;1600.0;0.0;0.0
+Apartamento;Tijuca;3;0;0;120;1600.0;0.0;0.0
+Apartamento;Vila da Penha;1;0;0;30;800.0;0.0;0.0
+Apartamento;Recreio dos Bandeirantes;4;3;4;260;4000.0;0.0;0.0
+Apartamento;Cascadura;2;0;0;96;1250.0;0.0;77.0
+Casa;Campo Grande;1;1;0;37;600.0;0.0;0.0
+Casa;Joá;4;7;0;340;9990.0;0.0;970.0
+Casa;Vargem Grande;6;0;6;1000;20000.0;0.0;715.0
+Casa;Campo Grande;3;1;3;115;1500.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;35;3000.0;0.0;0.0
+Casa de Vila;Campo Grande;1;0;0;40;600.0;0.0;25.0
+Quitinete;Vila da Penha;1;0;0;15;600.0;0.0;0.0
+Casa;Jardim Botânico;4;4;4;845;35000.0;0.0;0.0
+Apartamento;Freguesia (Jacarepaguá);1;0;0;28;550.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;4;5;1;365;7150.0;0.0;6600.0
+Apartamento;Campo Grande;2;1;0;45;850.0;0.0;0.0
+Casa de Vila;Braz de Pina;1;0;0;50;800.0;0.0;0.0
+Casa;Ribeira;3;0;0;65;1200.0;0.0;0.0
+Casa de Vila;Cascadura;1;0;0;42;800.0;0.0;0.0
+Apartamento;Anil;2;1;0;50;1450.0;0.0;0.0
+Casa;Bonsucesso;2;0;0;72;2000.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;6;5;6;1100;25000.0;0.0;0.0
+Casa;Pechincha;2;0;0;55;1000.0;0.0;0.0
+Casa de Vila;Méier;2;1;1;65;1800.0;0.0;0.0
+Casa;Urca;5;2;4;320;21000.0;0.0;0.0
+Casa;Barra da Tijuca;4;6;4;500;25000.0;0.0;1298.0
+Quitinete;Santa Teresa;1;0;0;20;600.0;0.0;0.0
+Apartamento;Copacabana;1;1;1;80;3300.0;0.0;0.0
+Casa de Vila;Realengo;1;0;0;45;650.0;0.0;0.0
+Casa de Vila;São Francisco Xavier;3;0;1;80;1200.0;0.0;17.0
+Apartamento;Gamboa;2;0;0;43;950.0;0.0;0.0
+Apartamento;Guadalupe;2;0;0;80;1000.0;0.0;0.0
+Casa;Vila da Penha;2;0;0;70;1200.0;0.0;0.0
+Casa;Andaraí;2;1;0;80;1580.0;0.0;30.0
+Casa;São Conrado;5;3;3;500;14000.0;0.0;508.0
+Apartamento;Botafogo;1;0;0;30;2300.0;0.0;0.0
+Casa;Jardim Botânico;5;2;2;276;15000.0;0.0;525.0
+Apartamento;Tijuca;2;0;0;60;2100.0;0.0;0.0
+Apartamento;Botafogo;1;0;0;25;1800.0;0.0;25.0
+Apartamento;Oswaldo Cruz;2;1;0;65;1100.0;0.0;0.0
+Casa;Campo Grande;2;1;2;80;950.0;0.0;0.0
+Casa;Jardim Guanabara;2;0;0;100;900.0;0.0;0.0
+Casa;Campo Grande;2;2;0;80;1000.0;0.0;0.0
+Casa;Botafogo;10;2;4;700;25000.0;0.0;19461.0
+Apartamento;Grajaú;3;0;0;85;1600.0;0.0;45.0
+Casa;Jardim Botânico;4;3;4;500;20000.0;0.0;1800.0
+Apartamento;Botafogo;3;2;1;170;5850.0;0.0;270.0
+Casa;Recreio dos Bandeirantes;4;3;1;350;4500.0;0.0;0.0
+Apartamento;Gardênia Azul;2;0;0;55;1200.0;0.0;11.0
+Casa;Paciência;1;0;0;40;650.0;0.0;0.0
+Apartamento;Vista Alegre;2;0;0;62;1050.0;0.0;0.0
+Apartamento;Lagoa;4;2;2;350;15000.0;0.0;0.0
+Apartamento;Realengo;2;0;0;44;700.0;0.0;0.0
+Apartamento;Barra da Tijuca;3;2;3;165;5000.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;2;2;160;5500.0;0.0;0.0
+Apartamento;Taquara;3;0;0;86;2000.0;0.0;107.0
+Casa;Urca;6;2;2;260;18000.0;0.0;0.0
+Apartamento;Vila da Penha;1;0;0;40;1000.0;0.0;0.0
+Casa;Cascadura;2;0;0;65;1500.0;0.0;0.0
+Casa;Campo Grande;1;1;0;50;550.0;0.0;2.0
+Casa;Irajá;2;0;0;60;850.0;0.0;0.0
+Casa de Vila;Campo Grande;3;1;0;80;1300.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;40;600.0;0.0;0.0
+Apartamento;Copacabana;1;1;1;46;3000.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;30;2700.0;0.0;0.0
+Casa de Condomínio;Humaitá;6;2;2;450;8000.0;0.0;0.0
+Apartamento;São Cristóvão;1;0;0;33;780.0;0.0;0.0
+Casa;São Conrado;4;3;2;380;10000.0;0.0;730.0
+Casa;Santa Teresa;1;0;0;70;1400.0;0.0;21.0
+Casa;Madureira;3;0;0;112;1200.0;0.0;0.0
+Casa;Bento Ribeiro;1;0;0;38;600.0;0.0;0.0
+Casa;Jardim Botânico;4;0;3;280;10000.0;0.0;520.0
+Casa de Vila;São Cristóvão;1;0;0;33;1400.0;0.0;53.0
+Apartamento;Glória;2;0;1;117;3100.0;0.0;43.0
+Casa;Campo Grande;6;4;0;180;10000.0;0.0;0.0
+Casa;Vila Isabel;3;0;0;90;2000.0;0.0;0.0
+Quitinete;Botafogo;1;1;0;64;4000.0;0.0;0.0
+Casa;Freguesia (Jacarepaguá);4;3;0;318;4500.0;0.0;0.0
+Casa de Vila;Piedade;2;0;1;80;1300.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;75;1200.0;0.0;0.0
+Casa;Ramos;1;0;1;50;800.0;0.0;0.0
+Apartamento;Ipanema;1;0;0;60;3000.0;0.0;0.0
+Flat;Ipanema;1;1;1;50;6500.0;0.0;0.0
+Apartamento;Campo Grande;2;0;0;65;800.0;0.0;0.0
+Apartamento;Vista Alegre;2;0;0;55;900.0;0.0;0.0
+Casa;Campo Grande;2;1;0;70;1200.0;0.0;0.0
+Apartamento;Barra da Tijuca;4;3;4;230;16000.0;0.0;0.0
+Apartamento;Vila da Penha;3;1;0;67;1800.0;0.0;0.0
+Casa de Vila;Vigário Geral;3;0;1;198;1500.0;0.0;0.0
+Casa;Bancários;2;4;1;195;2800.0;0.0;138.0
+Casa;Campo Grande;2;3;1;90;1700.0;0.0;0.0
+Quitinete;Ramos;1;0;0;25;650.0;0.0;0.0
+Casa;Campo Grande;2;2;1;100;1000.0;0.0;0.0
+Casa;Méier;3;1;0;80;2000.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;70;4000.0;0.0;0.0
+Apartamento;Copacabana;2;0;0;62;2500.0;0.0;0.0
+Casa;Vila Valqueire;2;1;1;65;1700.0;0.0;0.0
+Casa;Freguesia (Jacarepaguá);4;3;4;400;16000.0;0.0;2200.0
+Casa;Engenho de Dentro;1;0;0;50;800.0;0.0;17.0
+Apartamento;Vaz Lobo;2;1;0;50;1100.0;0.0;0.0
+Apartamento;Ipanema;1;0;0;38;5500.0;0.0;0.0
+Apartamento;Moneró;2;0;0;199;1300.0;0.0;0.0
+Casa;Paciência;1;0;0;40;700.0;0.0;0.0
+Casa;Urca;4;3;4;800;35000.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;4;0;2;600;8500.0;0.0;1858.0
+Apartamento;Botafogo;1;1;0;45;2150.0;0.0;80.0
+Apartamento;Barra da Tijuca;3;1;1;90;2309.0;0.0;0.0
+Casa;Bonsucesso;3;0;0;75;1800.0;0.0;44.0
+Apartamento;Portuguesa;1;0;0;16;1200.0;0.0;0.0
+Casa;Campo Grande;2;1;0;120;2500.0;0.0;0.0
+Apartamento;Copacabana;1;0;0;30;2800.0;0.0;0.0
+Casa;Vila Isabel;2;1;1;100;2800.0;0.0;400.0
+Quitinete;Barra da Tijuca;1;1;1;20;1800.0;0.0;0.0
+Apartamento;Ipanema;2;1;2;240;24000.0;0.0;0.0
+Apartamento;Cosmos;2;1;0;60;650.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;3;3;1;300;4500.0;0.0;0.0
+Casa;Madureira;1;0;0;40;800.0;0.0;0.0
+Casa;Vargem Pequena;2;3;2;300;7500.0;0.0;0.0
+Casa de Vila;Riachuelo;2;0;0;41;900.0;0.0;135.0
+Casa;Cocotá;3;1;3;300;4000.0;0.0;1500.0
+Casa;Santa Teresa;6;10;5;1000;25000.0;0.0;706.0
+Apartamento;Barra da Tijuca;2;1;2;140;10000.0;0.0;0.0
+Casa de Condomínio;Guaratiba;2;0;0;70;1000.0;0.0;0.0
+Casa;Olaria;2;0;1;119;1700.0;0.0;0.0
+Casa de Condomínio;Guaratiba;2;1;2;75;1700.0;0.0;0.0
+Apartamento;Cachambi;2;1;1;65;1900.0;0.0;0.0
+Apartamento;Vargem Grande;4;0;1;180;1900.0;0.0;176.0
+Casa de Vila;Vaz Lobo;1;0;0;50;700.0;0.0;0.0
+Quitinete;Ipanema;1;0;1;30;6500.0;0.0;0.0
+Casa de Vila;Rocha Miranda;1;0;0;44;700.0;0.0;0.0
+Casa;Laranjeiras;5;6;5;980;10000.0;0.0;1200.0
+Casa;Botafogo;2;1;1;108;3800.0;0.0;0.0
+Casa de Condomínio;Barra da Tijuca;5;0;5;850;28000.0;0.0;0.0
+Apartamento;Guadalupe;2;0;0;46;650.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;3;30;0;600;8000.0;0.0;280.0
+Casa de Vila;Madureira;1;1;0;52;900.0;0.0;0.0
+Apartamento;Méier;2;0;0;60;900.0;0.0;0.0
+Apartamento;Braz de Pina;2;0;0;55;950.0;0.0;0.0
+Apartamento;Barra da Tijuca;2;0;2;160;12000.0;0.0;0.0
+Casa de Vila;Bento Ribeiro;1;0;0;35;780.0;0.0;14.0
+Apartamento;Bonsucesso;2;0;0;54;1000.0;0.0;0.0
+Flat;Copacabana;1;1;1;60;5000.0;0.0;0.0
+Apartamento;Rocha Miranda;1;0;0;28;900.0;0.0;0.0
+Apartamento;Higienópolis;2;0;1;80;1500.0;0.0;27.0
+Quitinete;Padre Miguel;1;0;0;55;450.0;0.0;0.0
+Apartamento;Bonsucesso;3;0;0;100;1300.0;0.0;0.0
+Apartamento;Campo Grande;3;1;0;50;900.0;0.0;0.0
+Apartamento;Flamengo;1;0;0;40;3000.0;0.0;0.0
+Casa;Campo Grande;2;1;0;73;1200.0;0.0;0.0
+Casa de Vila;Vila da Penha;1;0;0;40;850.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;5;4;3;360;15000.0;0.0;607.0
+Casa de Condomínio;Barra da Tijuca;5;6;5;1300;34009.0;0.0;0.0
+Apartamento;Gardênia Azul;1;0;0;27;650.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;40;500.0;0.0;0.0
+Casa;Botafogo;4;0;1;300;10500.0;0.0;40.0
+Apartamento;Botafogo;1;0;0;24;2200.0;0.0;0.0
+Casa de Vila;Vila Valqueire;2;1;0;65;980.0;0.0;60.0
+Apartamento;Gardênia Azul;2;0;1;45;850.0;0.0;0.0
+Casa;Curicica;3;1;1;180;1950.0;0.0;0.0
+Casa;Grajaú;3;1;0;294;3500.0;0.0;0.0
+Apartamento;Taquara;1;0;0;30;700.0;0.0;0.0
+Apartamento;Copacabana;4;0;1;70;3500.0;0.0;0.0
+Apartamento;Copacabana;2;1;0;62;4000.0;0.0;0.0
+Apartamento;Copacabana;3;1;0;90;4500.0;0.0;0.0
+Apartamento;Engenho de Dentro;1;0;0;32;800.0;0.0;0.0
+Casa;Glória;7;2;0;883;40000.0;0.0;1040.0
+Casa de Vila;São Cristóvão;1;0;0;45;1000.0;0.0;15.0
+Casa de Vila;Lins de Vasconcelos;2;0;0;50;900.0;0.0;0.0
+Casa;Campo Grande;4;2;0;120;1600.0;0.0;0.0
+Casa;Barra da Tijuca;1;0;1;55;1600.0;0.0;0.0
+Apartamento;Campo Grande;2;1;0;50;1050.0;0.0;0.0
+Casa;Cosmos;1;1;0;36;500.0;0.0;0.0
+Quitinete;Gardênia Azul;1;0;0;25;490.0;0.0;0.0
+Quitinete;Irajá;1;0;0;20;500.0;0.0;0.0
+Casa de Condomínio;São Cristóvão;2;0;2;120;2000.0;0.0;0.0
+Casa;Jacaré;2;1;0;80;1500.0;0.0;150.0
+Apartamento;Ipanema;1;1;1;65;6000.0;0.0;0.0
+Casa;Campo Grande;1;1;0;61;830.0;0.0;0.0
+Apartamento;Icaraí;3;1;1;166;2950.0;0.0;0.0
+Apartamento;Campo Grande;3;1;0;50;900.0;0.0;0.0
+Casa de Vila;Olaria;1;0;0;40;800.0;0.0;0.0
+Casa;Curicica;3;5;1;150;2500.0;0.0;1200.0
+Apartamento;Copacabana;3;0;1;100;8000.0;0.0;0.0
+Casa de Vila;Tijuca;2;0;0;75;2200.0;0.0;0.0
+Casa de Vila;Riachuelo;2;0;0;43;1000.0;0.0;120.0
+Casa;Inhoaíba;1;0;0;50;600.0;0.0;0.0
+Casa;Pechincha;5;3;1;300;3000.0;0.0;290.0
+Casa;Méier;4;1;0;180;2500.0;0.0;80.0
+Apartamento;Copacabana;1;0;0;35;3000.0;0.0;0.0
+Casa;Irajá;2;1;1;60;1150.0;0.0;0.0
+Casa;Jardim Botânico;7;6;4;845;35000.0;0.0;0.0
+Casa;Turiaçu;2;1;0;45;700.0;0.0;0.0
+Apartamento;Riachuelo;2;0;0;43;900.0;0.0;16.0
+Apartamento;Copacabana;1;0;0;30;2600.0;0.0;0.0
+Apartamento;Anil;2;0;0;48;1070.0;0.0;0.0
+Apartamento;Campo Grande;1;0;0;40;480.0;0.0;0.0
+Flat;Centro;1;0;1;32;2950.0;0.0;0.0
+Casa;Campo Grande;2;0;0;116;1100.0;0.0;0.0
+Casa;Centro;2;0;0;207;4000.0;0.0;0.0
+Casa;Campo Grande;3;0;1;140;1500.0;0.0;0.0
+Apartamento;Campo Grande;3;0;0;52;900.0;0.0;0.0
+Casa;Taquara;3;3;0;280;4000.0;0.0;1200.0
+Apartamento;Copacabana;3;0;0;130;4600.0;0.0;0.0
+Casa;Rocha Miranda;1;0;0;44;700.0;0.0;0.0
+Casa;Andaraí;3;1;0;75;2950.0;0.0;0.0
+Casa de Vila;Quintino Bocaiúva;2;0;0;58;1000.0;0.0;0.0
+Apartamento;Guadalupe;1;0;0;40;550.0;0.0;0.0
+Casa;Engenho Novo;1;0;0;40;450.0;0.0;0.0
+Apartamento;Bonsucesso;1;0;0;60;1000.0;0.0;0.0
+Apartamento;Flamengo;2;0;0;59;3500.0;0.0;0.0
+Casa;Maracanã;4;2;1;240;6500.0;0.0;700.0
+Casa;Campo Grande;2;1;2;86;1500.0;0.0;0.0
+Casa;Vila da Penha;2;1;0;80;1500.0;0.0;0.0
+Casa de Vila;Riachuelo;3;0;0;73;850.0;0.0;0.0
+Apartamento;Cascadura;3;0;1;70;1200.0;0.0;0.0
+Casa;Campo Grande;1;0;0;50;600.0;0.0;0.0
+Casa de Vila;Pavuna;2;0;0;55;600.0;0.0;0.0
+Casa;Recreio dos Bandeirantes;4;2;2;352;6500.0;0.0;0.0
+Casa;Bento Ribeiro;2;1;0;60;1400.0;0.0;0.0
+Casa;Centro;5;0;1;160;5000.0;0.0;80.0
