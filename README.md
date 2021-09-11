@@ -1,2 +1,11 @@
-# alura-data-science-python-pandas-tratando-analisando-dados
-A repo to show what I've learned at Alura's ETL and data analysis using Pandas Python library course.
+# Tratando e analisando dados com Pandas/Python
+
+## Análise desenvolvida em um dos cursos da trilha de Data Science da Alura
+
+### Bibliotecas utilizadas
+
+- Pandas
+- Matplotlib
+
+### Análise Exploratória
+
